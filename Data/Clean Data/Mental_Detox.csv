@@ -1,0 +1,301 @@
+participant_id,sleep_quality,exercise_frequency,mental_fog_frequency,irritability_when_offline,mood_dependency_on_sm,reward_seeking_behavior,boredom_to_phone_reflex,inability_to_delay_gratification,detox_relapse_reason
+P0001,Poor,Never,Daily,Yes,Yes,5,Yes,Yes,3
+P0002,Very poor,Never,Daily,Yes,Yes,5,Yes,Yes,1
+P0003,Poor,1-2x/week,Daily,Yes,Yes,4,Yes,Yes,5
+P0004,Poor,1-2x/week,Daily,Yes,Yes,4,Yes,Yes,7
+P0005,Poor,Never,Daily,Yes,Yes,5,Yes,Yes,4
+P0006,Poor,Never,Daily,Yes,Yes,4,Yes,Yes,5
+P0007,Fair,1-2x/week,Daily,Yes,Yes,4,Yes,Yes,7
+P0008,Fair,1-2x/week,Often,Yes,Yes,4,Yes,Yes,10
+P0009,Poor,Never,Daily,Yes,Yes,5,Yes,Yes,3
+P0010,Fair,1-2x/week,Daily,Yes,Yes,4,Yes,Yes,5
+P0011,Fair,1-2x/week,Often,Yes,Yes,4,Yes,Yes,8
+P0012,Poor,1-2x/week,Daily,Yes,Yes,4,Yes,Yes,4
+P0013,Fair,Never,Daily,Yes,Yes,4,Yes,Yes,5
+P0014,Fair,1-2x/week,Often,Yes,Sometimes,3,Yes,Yes,12
+P0015,Poor,Never,Daily,Yes,Yes,5,Yes,Yes,2
+P0016,Fair,1-2x/week,Often,Yes,Yes,4,Yes,Yes,8
+P0017,Fair,1-2x/week,Daily,Yes,Yes,4,Yes,Yes,5
+P0018,Fair,1-2x/week,Often,Sometimes,Sometimes,3,Yes,Sometimes,14
+P0019,Poor,Never,Daily,Yes,Yes,5,Yes,Yes,4
+P0020,Poor,Never,Daily,Yes,Yes,4,Yes,Yes,5
+P0021,Poor,Never,Daily,Yes,Yes,5,Yes,Yes,3
+P0022,Fair,1-2x/week,Often,Sometimes,Sometimes,3,Yes,Sometimes,15
+P0023,Poor,1-2x/week,Daily,Yes,Yes,4,Yes,Yes,4
+P0024,Fair,1-2x/week,Daily,Yes,Yes,4,Yes,Yes,8
+P0025,Fair,Never,Daily,Yes,Yes,4,Yes,Yes,5
+P0026,Fair,1-2x/week,Often,Sometimes,Sometimes,3,Yes,Sometimes,12
+P0027,Fair,1-2x/week,Daily,Yes,Yes,4,Yes,Yes,8
+P0028,Fair,1-2x/week,Often,Yes,Sometimes,3,Yes,Sometimes,10
+P0029,Poor,Never,Daily,Yes,Yes,5,Yes,Yes,3
+P0030,Fair,1-2x/week,Often,Sometimes,Sometimes,3,Yes,Sometimes,10
+P0031,Fair,1-2x/week,Often,Yes,Yes,3,Yes,Yes,9
+P0032,Poor,Never,Daily,Yes,Yes,5,Yes,Yes,4
+P0033,Poor,Never,Daily,Yes,Yes,5,Yes,Yes,2
+P0034,Fair,1-2x/week,Often,Sometimes,Sometimes,3,Yes,Sometimes,18
+P0035,Very poor,Never,Daily,Yes,Yes,5,Yes,Yes,1
+P0036,Fair,1-2x/week,Often,Yes,Yes,3,Yes,Sometimes,8
+P0037,Fair,1-2x/week,Daily,Yes,Yes,4,Yes,Yes,5
+P0038,Poor,Never,Daily,Yes,Yes,4,Yes,Yes,5
+P0039,Fair,1-2x/week,Often,Yes,Yes,4,Yes,Yes,9
+P0040,Fair,1-2x/week,Often,Yes,Yes,3,Yes,Sometimes,10
+P0041,Poor,Never,Daily,Yes,Yes,4,Yes,Yes,4
+P0042,Fair,1-2x/week,Often,Sometimes,Sometimes,3,Yes,Sometimes,10
+P0043,Poor,Never,Daily,Yes,Yes,4,Yes,Yes,4
+P0044,Poor,1-2x/week,Daily,Yes,Yes,4,Yes,Yes,5
+P0045,Fair,1-2x/week,Often,Sometimes,Sometimes,3,Yes,Sometimes,14
+P0046,Fair,1-2x/week,Daily,Yes,Yes,4,Yes,Yes,6
+P0047,Poor,Never,Daily,Yes,Yes,5,Yes,Yes,3
+P0048,Fair,1-2x/week,Often,Sometimes,Sometimes,3,Yes,Sometimes,10
+P0049,Fair,1-2x/week,Often,Sometimes,Sometimes,3,Yes,Sometimes,15
+P0050,Poor,Never,Daily,Yes,Yes,4,Yes,Yes,4
+P0051,Poor,1-2x/week,Daily,Yes,Yes,4,Yes,Yes,5
+P0052,Fair,1-2x/week,Often,Sometimes,Sometimes,3,Yes,Sometimes,16
+P0053,Poor,Never,Daily,Yes,Yes,5,Yes,Yes,3
+P0054,Fair,1-2x/week,Often,Sometimes,Sometimes,3,Yes,Sometimes,14
+P0055,Fair,1-2x/week,Daily,Yes,Yes,4,Yes,Yes,6
+P0056,Fair,1-2x/week,Often,Sometimes,Sometimes,3,Yes,Sometimes,10
+P0057,Very poor,Never,Daily,Yes,Yes,5,Yes,Yes,1
+P0058,Good,1-2x/week,Often,Sometimes,Sometimes,3,Yes,Sometimes,18
+P0059,Poor,Never,Daily,Yes,Yes,5,Yes,Yes,3
+P0060,Fair,1-2x/week,Often,Sometimes,Sometimes,3,Yes,Sometimes,10
+P0061,Good,3-4x/week,Rarely,Sometimes,Rarely,3,Sometimes,Sometimes,20
+P0062,Good,3-4x/week,Rarely,Rarely,Rarely,2,Sometimes,Rarely,25
+P0063,Fair,1-2x/week,Often,Sometimes,Sometimes,3,Yes,Sometimes,14
+P0064,Good,3-4x/week,Rarely,Rarely,Rarely,2,Sometimes,Rarely,22
+P0065,Good,3-4x/week,Rarely,Rarely,Rarely,2,Rarely,Rarely,28
+P0066,Good,3-4x/week,Rarely,Rarely,Rarely,2,Sometimes,Rarely,24
+P0067,Fair,1-2x/week,Sometimes,Sometimes,Sometimes,3,Sometimes,Sometimes,18
+P0068,Fair,1-2x/week,Often,Sometimes,Sometimes,3,Yes,Sometimes,12
+P0069,Good,Daily,Rarely,Rarely,Rarely,2,Rarely,Rarely,35
+P0070,Fair,1-2x/week,Often,Sometimes,Sometimes,3,Sometimes,Sometimes,14
+P0071,Good,3-4x/week,Rarely,Rarely,Rarely,2,Sometimes,Rarely,22
+P0072,Fair,1-2x/week,Often,Yes,Sometimes,3,Yes,Sometimes,12
+P0073,Fair,1-2x/week,Sometimes,Sometimes,Sometimes,3,Sometimes,Sometimes,15
+P0074,Good,3-4x/week,Rarely,Rarely,Rarely,2,Rarely,Rarely,40
+P0075,Good,1-2x/week,Sometimes,Sometimes,Sometimes,3,Sometimes,Sometimes,18
+P0076,Good,Daily,Rarely,Rarely,Rarely,2,Rarely,Rarely,45
+P0077,Good,3-4x/week,Rarely,Rarely,Rarely,2,Sometimes,Rarely,25
+P0078,Fair,1-2x/week,Sometimes,Sometimes,Sometimes,3,Sometimes,Sometimes,14
+P0079,Good,1-2x/week,Rarely,Sometimes,Rarely,2,Sometimes,Sometimes,18
+P0080,Good,3-4x/week,Rarely,Rarely,Rarely,2,Rarely,Rarely,42
+P0081,Fair,1-2x/week,Often,Sometimes,Sometimes,3,Sometimes,Sometimes,12
+P0082,Fair,1-2x/week,Often,Sometimes,Sometimes,3,Sometimes,Sometimes,14
+P0083,Good,Daily,Rarely,Rarely,Rarely,2,Rarely,Rarely,35
+P0084,Good,3-4x/week,Rarely,Rarely,Rarely,2,Sometimes,Rarely,28
+P0085,Good,1-2x/week,Rarely,Sometimes,Rarely,2,Sometimes,Sometimes,18
+P0086,Good,Daily,Rarely,Rarely,Rarely,2,Rarely,Rarely,45
+P0087,Good,3-4x/week,Rarely,Rarely,Rarely,2,Sometimes,Rarely,24
+P0088,Fair,1-2x/week,Often,Sometimes,Sometimes,3,Yes,Sometimes,14
+P0089,Fair,1-2x/week,Sometimes,Sometimes,Sometimes,3,Sometimes,Sometimes,15
+P0090,Good,Daily,Never,Rarely,Rarely,1,Rarely,Rarely,50
+P0091,Good,3-4x/week,Rarely,Rarely,Rarely,2,Sometimes,Rarely,25
+P0092,Fair,1-2x/week,Often,Yes,Sometimes,3,Yes,Sometimes,12
+P0093,Good,1-2x/week,Sometimes,Sometimes,Sometimes,3,Sometimes,Sometimes,18
+P0094,Good,3-4x/week,Rarely,Rarely,Rarely,2,Sometimes,Rarely,28
+P0095,Good,3-4x/week,Rarely,Rarely,Rarely,2,Sometimes,Rarely,26
+P0096,Fair,1-2x/week,Sometimes,Sometimes,Sometimes,3,Sometimes,Sometimes,18
+P0097,Fair,1-2x/week,Often,Yes,Sometimes,3,Yes,Sometimes,10
+P0098,Good,3-4x/week,Rarely,Rarely,Rarely,2,Rarely,Rarely,35
+P0099,Fair,1-2x/week,Sometimes,Sometimes,Sometimes,3,Sometimes,Sometimes,14
+P0100,Good,1-2x/week,Rarely,Sometimes,Rarely,2,Sometimes,Sometimes,18
+P0101,Fair,1-2x/week,Sometimes,Sometimes,Sometimes,3,Sometimes,Sometimes,14
+P0102,Very good,Daily,Never,Rarely,Rarely,1,Rarely,Rarely,50
+P0103,Fair,1-2x/week,Often,Sometimes,Sometimes,3,Sometimes,Sometimes,14
+P0104,Fair,1-2x/week,Often,Sometimes,Sometimes,3,Sometimes,Sometimes,12
+P0105,Good,3-4x/week,Rarely,Rarely,Rarely,2,Sometimes,Rarely,28
+P0106,Good,3-4x/week,Rarely,Rarely,Rarely,2,Sometimes,Rarely,26
+P0107,Good,1-2x/week,Rarely,Sometimes,Rarely,2,Sometimes,Sometimes,20
+P0108,Fair,1-2x/week,Often,Yes,Sometimes,3,Yes,Sometimes,10
+P0109,Good,3-4x/week,Rarely,Rarely,Rarely,2,Sometimes,Rarely,28
+P0110,Fair,1-2x/week,Often,Yes,Sometimes,3,Yes,Sometimes,10
+P0111,Good,Daily,Never,Rarely,Rarely,2,Rarely,Rarely,42
+P0112,Good,1-2x/week,Sometimes,Sometimes,Sometimes,3,Sometimes,Sometimes,20
+P0113,Fair,1-2x/week,Often,Sometimes,Sometimes,3,Sometimes,Sometimes,12
+P0114,Good,3-4x/week,Rarely,Rarely,Rarely,2,Sometimes,Rarely,25
+P0115,Good,Daily,Never,Rarely,Rarely,2,Rarely,Rarely,45
+P0116,Fair,1-2x/week,Sometimes,Sometimes,Sometimes,3,Sometimes,Sometimes,14
+P0117,Good,Daily,Never,Rarely,Rarely,1,Rarely,Rarely,48
+P0118,Good,3-4x/week,Rarely,Rarely,Rarely,2,Sometimes,Rarely,28
+P0119,Fair,1-2x/week,Often,Yes,Sometimes,3,Yes,Sometimes,10
+P0120,Good,3-4x/week,Rarely,Rarely,Rarely,2,Sometimes,Rarely,24
+P0121,Good,Daily,Never,Rarely,Rarely,2,Rarely,Rarely,48
+P0122,Good,Daily,Never,Rarely,Rarely,2,Rarely,Rarely,45
+P0123,Good,3-4x/week,Rarely,Rarely,Rarely,2,Sometimes,Rarely,28
+P0124,Good,3-4x/week,Rarely,Rarely,Rarely,2,Rarely,Rarely,40
+P0125,Very good,Daily,Never,Rarely,Rarely,1,Rarely,Rarely,50
+P0126,Good,3-4x/week,Rarely,Rarely,Rarely,2,Sometimes,Rarely,28
+P0127,Good,3-4x/week,Rarely,Rarely,Rarely,2,Sometimes,Rarely,26
+P0128,Good,Daily,Never,Rarely,Rarely,1,Rarely,Rarely,52
+P0129,Good,3-4x/week,Rarely,Rarely,Rarely,2,Sometimes,Rarely,26
+P0130,Good,Daily,Never,Rarely,Rarely,1,Rarely,Rarely,55
+P0131,Good,1-2x/week,Rarely,Sometimes,Rarely,2,Sometimes,Sometimes,28
+P0132,Good,3-4x/week,Rarely,Rarely,Rarely,2,Sometimes,Rarely,28
+P0133,Very good,Daily,Never,Rarely,Rarely,1,Rarely,Rarely,52
+P0134,Good,Daily,Never,Rarely,Rarely,2,Rarely,Rarely,48
+P0135,Good,3-4x/week,Rarely,Rarely,Rarely,2,Sometimes,Rarely,30
+P0136,Good,3-4x/week,Never,Rarely,Rarely,2,Rarely,Rarely,45
+P0137,Good,3-4x/week,Rarely,Rarely,Rarely,2,Sometimes,Rarely,28
+P0138,Good,3-4x/week,Rarely,Rarely,Rarely,2,Rarely,Rarely,40
+P0139,Good,3-4x/week,Rarely,Rarely,Rarely,2,Sometimes,Rarely,28
+P0140,Good,Daily,Never,Rarely,Rarely,2,Rarely,Rarely,48
+P0141,Very good,Daily,Never,Rarely,Rarely,1,Rarely,Rarely,50
+P0142,Good,3-4x/week,Rarely,Rarely,Rarely,2,Rarely,Rarely,40
+P0143,Good,1-2x/week,Sometimes,Sometimes,Sometimes,2,Sometimes,Sometimes,20
+P0144,Good,3-4x/week,Rarely,Rarely,Rarely,2,Sometimes,Rarely,28
+P0145,Good,3-4x/week,Rarely,Rarely,Rarely,2,Sometimes,Rarely,28
+P0146,Good,Daily,Never,Rarely,Rarely,2,Rarely,Rarely,50
+P0147,Good,3-4x/week,Rarely,Rarely,Rarely,2,Sometimes,Rarely,28
+P0148,Good,3-4x/week,Rarely,Rarely,Rarely,2,Sometimes,Rarely,28
+P0149,Good,1-2x/week,Rarely,Sometimes,Rarely,2,Sometimes,Sometimes,28
+P0150,Good,3-4x/week,Rarely,Rarely,Rarely,2,Sometimes,Rarely,28
+P0151,Good,Daily,Never,Rarely,Rarely,1,Rarely,Rarely,48
+P0152,Good,3-4x/week,Rarely,Rarely,Rarely,2,Sometimes,Rarely,28
+P0153,Good,3-4x/week,Rarely,Rarely,Rarely,2,Sometimes,Rarely,28
+P0154,Good,1-2x/week,Rarely,Sometimes,Rarely,2,Sometimes,Sometimes,20
+P0155,Good,3-4x/week,Rarely,Rarely,Rarely,2,Sometimes,Rarely,28
+P0156,Good,3-4x/week,Rarely,Rarely,Rarely,2,Rarely,Rarely,40
+P0157,Good,Daily,Never,Rarely,Rarely,1,Rarely,Rarely,46
+P0158,Good,1-2x/week,Rarely,Sometimes,Rarely,2,Sometimes,Sometimes,28
+P0159,Good,3-4x/week,Rarely,Rarely,Rarely,2,Sometimes,Rarely,28
+P0160,Good,3-4x/week,Rarely,Rarely,Rarely,2,Sometimes,Rarely,28
+P0161,Good,3-4x/week,Rarely,Rarely,Rarely,2,Sometimes,Rarely,28
+P0162,Good,Daily,Never,Rarely,Rarely,1,Rarely,Rarely,52
+P0163,Good,1-2x/week,Sometimes,Sometimes,Sometimes,2,Sometimes,Sometimes,20
+P0164,Good,3-4x/week,Rarely,Rarely,Rarely,2,Rarely,Rarely,40
+P0165,Good,3-4x/week,Rarely,Rarely,Rarely,2,Sometimes,Rarely,28
+P0166,Good,Daily,Never,Rarely,Rarely,2,Rarely,Rarely,48
+P0167,Good,Daily,Never,Rarely,Rarely,1,Rarely,Rarely,55
+P0168,Good,3-4x/week,Rarely,Rarely,Rarely,2,Sometimes,Rarely,28
+P0169,Good,3-4x/week,Rarely,Rarely,Rarely,2,Sometimes,Rarely,28
+P0170,Good,1-2x/week,Rarely,Sometimes,Rarely,2,Sometimes,Sometimes,26
+P0171,Good,Daily,Never,Rarely,Rarely,1,Rarely,Rarely,48
+P0172,Good,Daily,Never,Rarely,Rarely,1,Rarely,Rarely,52
+P0173,Good,3-4x/week,Rarely,Rarely,Rarely,2,Sometimes,Rarely,30
+P0174,Good,3-4x/week,Rarely,Rarely,Rarely,2,Sometimes,Rarely,28
+P0175,Good,1-2x/week,Rarely,Sometimes,Rarely,2,Sometimes,Sometimes,20
+P0176,Good,Daily,Never,Rarely,Rarely,2,Rarely,Rarely,48
+P0177,Good,Daily,Never,Rarely,Rarely,1,Rarely,Rarely,48
+P0178,Good,3-4x/week,Rarely,Rarely,Rarely,2,Sometimes,Rarely,26
+P0179,Good,3-4x/week,Rarely,Rarely,Rarely,2,Sometimes,Rarely,30
+P0180,Good,3-4x/week,Rarely,Rarely,Rarely,2,Sometimes,Rarely,28
+P0181,Good,Daily,Never,Never,Never,1,Rarely,Rarely,60
+P0182,Good,Daily,Never,Never,Never,1,Never,Never,65
+P0183,Good,3-4x/week,Never,Rarely,Never,1,Rarely,Rarely,55
+P0184,Good,Daily,Never,Never,Never,1,Never,Never,70
+P0185,Good,Daily,Never,Never,Never,1,Rarely,Never,60
+P0186,Very good,Daily,Never,Never,Never,1,Never,Never,72
+P0187,Good,Daily,Never,Never,Never,1,Rarely,Never,65
+P0188,Very good,Daily,Never,Never,Never,1,Never,Never,75
+P0189,Good,3-4x/week,Never,Rarely,Never,1,Rarely,Rarely,52
+P0190,Very good,Daily,Never,Never,Never,1,Never,Never,80
+P0191,Good,3-4x/week,Never,Rarely,Never,1,Rarely,Rarely,52
+P0192,Good,Daily,Never,Never,Never,1,Never,Never,72
+P0193,Good,Daily,Never,Never,Never,1,Rarely,Never,62
+P0194,Very good,Daily,Never,Never,Never,1,Never,Never,75
+P0195,Good,Daily,Never,Never,Never,1,Rarely,Never,60
+P0196,Very good,Daily,Never,Never,Never,1,Never,Never,82
+P0197,Good,3-4x/week,Never,Rarely,Never,1,Rarely,Rarely,52
+P0198,Very good,Daily,Never,Never,Never,1,Never,Never,72
+P0199,Good,3-4x/week,Never,Rarely,Never,1,Rarely,Rarely,52
+P0200,Very good,Daily,Never,Never,Never,1,Never,Never,90
+P0201,Good,1-2x/week,Never,Rarely,Never,1,Rarely,Rarely,52
+P0202,Very good,Daily,Never,Never,Never,1,Never,Never,76
+P0203,Good,Daily,Never,Never,Never,1,Rarely,Never,60
+P0204,Very good,Daily,Never,Never,Never,1,Never,Never,82
+P0205,Good,3-4x/week,Never,Rarely,Never,1,Rarely,Rarely,52
+P0206,Good,Daily,Never,Never,Never,1,Rarely,Never,62
+P0207,Very good,Daily,Never,Never,Never,1,Never,Never,82
+P0208,Good,3-4x/week,Never,Rarely,Never,1,Rarely,Rarely,52
+P0209,Very good,Daily,Never,Never,Never,1,Never,Never,80
+P0210,Good,3-4x/week,Never,Rarely,Never,1,Rarely,Rarely,52
+P0211,Good,Daily,Never,Never,Never,1,Rarely,Never,62
+P0212,Very good,Daily,Never,Never,Never,1,Never,Never,90
+P0213,Good,3-4x/week,Never,Rarely,Never,1,Rarely,Rarely,52
+P0214,Good,Daily,Never,Never,Never,1,Never,Never,72
+P0215,Good,Daily,Never,Rarely,Never,1,Rarely,Rarely,55
+P0216,Good,Daily,Never,Never,Never,1,Never,Never,72
+P0217,Good,3-4x/week,Never,Rarely,Never,1,Rarely,Rarely,52
+P0218,Very good,Daily,Never,Never,Never,1,Never,Never,82
+P0219,Good,3-4x/week,Never,Rarely,Never,1,Rarely,Rarely,52
+P0220,Very good,Daily,Never,Never,Never,1,Never,Never,82
+P0221,Good,3-4x/week,Never,Rarely,Never,1,Rarely,Rarely,52
+P0222,Very good,Daily,Never,Never,Never,1,Never,Never,74
+P0223,Good,Daily,Never,Never,Never,1,Rarely,Never,62
+P0224,Very good,Daily,Never,Never,Never,1,Never,Never,82
+P0225,Good,3-4x/week,Never,Rarely,Never,1,Rarely,Rarely,52
+P0226,Very good,Daily,Never,Never,Never,1,Never,Never,82
+P0227,Good,3-4x/week,Never,Rarely,Never,1,Rarely,Rarely,52
+P0228,Very good,Daily,Never,Never,Never,1,Never,Never,84
+P0229,Good,1-2x/week,Rarely,Rarely,Rarely,1,Rarely,Rarely,50
+P0230,Very good,Daily,Never,Never,Never,1,Never,Never,76
+P0231,Good,Daily,Never,Never,Never,1,Rarely,Never,55
+P0232,Very good,Daily,Never,Never,Never,1,Never,Never,90
+P0233,Good,3-4x/week,Never,Rarely,Never,1,Rarely,Rarely,52
+P0234,Good,Daily,Never,Never,Never,1,Never,Never,72
+P0235,Good,Daily,Never,Never,Never,1,Rarely,Never,62
+P0236,Very good,Daily,Never,Never,Never,1,Never,Never,82
+P0237,Good,1-2x/week,Rarely,Rarely,Rarely,1,Rarely,Rarely,50
+P0238,Good,3-4x/week,Never,Rarely,Never,1,Rarely,Rarely,52
+P0239,Very good,Daily,Never,Never,Never,1,Never,Never,82
+P0240,Good,Daily,Never,Never,Never,1,Rarely,Never,62
+P0241,Poor,Never,Daily,Yes,Yes,4,Yes,Yes,10
+P0242,Poor,Never,Daily,Yes,Yes,5,Yes,Yes,7
+P0243,Fair,1-2x/week,Daily,Yes,Yes,4,Yes,Yes,8
+P0244,Poor,Never,Daily,Yes,Yes,5,Yes,Yes,3
+P0245,Very poor,Never,Daily,Yes,Yes,5,Yes,Yes,1
+P0246,Fair,3-4x/week,Often,Sometimes,Sometimes,3,Yes,Sometimes,12
+P0247,Fair,1-2x/week,Sometimes,Sometimes,Sometimes,3,Sometimes,Sometimes,16
+P0248,Very poor,Never,Daily,Yes,Yes,5,Yes,Yes,1
+P0249,Very poor,Never,Daily,Yes,Yes,5,Yes,Yes,1
+P0250,Good,3-4x/week,Rarely,Sometimes,Rarely,2,Sometimes,Sometimes,22
+P0251,Very poor,Never,Daily,Yes,Yes,5,Yes,Yes,1
+P0252,Fair,1-2x/week,Often,Yes,Sometimes,4,Yes,Sometimes,10
+P0253,Fair,1-2x/week,Often,Yes,Yes,4,Yes,Yes,8
+P0254,Fair,1-2x/week,Often,Yes,Sometimes,4,Yes,Sometimes,12
+P0255,Poor,Never,Daily,Yes,Yes,5,Yes,Yes,3
+P0256,Fair,1-2x/week,Often,Sometimes,Sometimes,3,Sometimes,Sometimes,14
+P0257,Poor,Never,Daily,Yes,Yes,5,Yes,Yes,4
+P0258,Good,3-4x/week,Rarely,Rarely,Rarely,2,Sometimes,Rarely,26
+P0259,Poor,Never,Daily,Yes,Yes,5,Yes,Yes,3
+P0260,Fair,1-2x/week,Often,Yes,Sometimes,3,Yes,Sometimes,10
+P0261,Very poor,Never,Daily,Yes,Yes,5,Yes,Yes,2
+P0262,Good,1-2x/week,Sometimes,Sometimes,Sometimes,3,Sometimes,Sometimes,16
+P0263,Poor,Never,Daily,Yes,Yes,5,Yes,Yes,2
+P0264,Good,3-4x/week,Sometimes,Sometimes,Sometimes,2,Sometimes,Sometimes,18
+P0265,Poor,Never,Daily,Yes,Yes,4,Yes,Yes,5
+P0266,Fair,Never,Daily,Yes,Yes,4,Yes,Yes,5
+P0267,Poor,Never,Daily,Yes,Yes,5,Yes,Yes,4
+P0268,Fair,1-2x/week,Often,Sometimes,Sometimes,3,Yes,Sometimes,14
+P0269,Fair,1-2x/week,Often,Yes,Sometimes,3,Yes,Sometimes,10
+P0270,Good,1-2x/week,Sometimes,Sometimes,Sometimes,3,Sometimes,Sometimes,18
+P0271,Poor,Never,Daily,Yes,Yes,5,Yes,Yes,3
+P0272,Good,3-4x/week,Rarely,Sometimes,Rarely,2,Sometimes,Sometimes,28
+P0273,Fair,1-2x/week,Often,Sometimes,Sometimes,3,Yes,Sometimes,14
+P0274,Poor,1-2x/week,Daily,Yes,Yes,4,Yes,Yes,5
+P0275,Fair,1-2x/week,Often,Yes,Sometimes,3,Yes,Sometimes,12
+P0276,Good,1-2x/week,Sometimes,Sometimes,Sometimes,2,Sometimes,Sometimes,18
+P0277,Fair,1-2x/week,Often,Yes,Sometimes,3,Yes,Sometimes,9
+P0278,Good,3-4x/week,Rarely,Rarely,Rarely,2,Sometimes,Rarely,26
+P0279,Fair,1-2x/week,Often,Yes,Sometimes,3,Yes,Sometimes,10
+P0280,Very poor,Never,Daily,Yes,Yes,5,Yes,Yes,1
+P0281,Good,Daily,Never,Rarely,Rarely,2,Rarely,Rarely,48
+P0282,Fair,1-2x/week,Often,Yes,Sometimes,3,Yes,Sometimes,10
+P0283,Poor,1-2x/week,Daily,Yes,Yes,4,Yes,Yes,8
+P0284,Poor,Never,Daily,Yes,Yes,5,Yes,Yes,3
+P0285,Good,3-4x/week,Rarely,Rarely,Rarely,2,Sometimes,Rarely,28
+P0286,Fair,1-2x/week,Often,Sometimes,Sometimes,3,Yes,Sometimes,14
+P0287,Fair,1-2x/week,Often,Yes,Sometimes,3,Yes,Sometimes,12
+P0288,Poor,Never,Daily,Yes,Yes,5,Yes,Yes,4
+P0289,Fair,1-2x/week,Often,Sometimes,Sometimes,3,Yes,Sometimes,12
+P0290,Poor,Never,Daily,Yes,Yes,4,Yes,Yes,5
+P0291,Good,Daily,Never,Rarely,Never,1,Rarely,Rarely,52
+P0292,Poor,Never,Daily,Yes,Yes,5,Yes,Yes,3
+P0293,Good,3-4x/week,Rarely,Rarely,Rarely,2,Sometimes,Rarely,28
+P0294,Very poor,Never,Daily,Yes,Yes,5,Yes,Yes,1
+P0295,Fair,1-2x/week,Often,Yes,Sometimes,4,Yes,Sometimes,12
+P0296,Poor,Never,Daily,Yes,Yes,4,Yes,Yes,6
+P0297,Good,1-2x/week,Sometimes,Sometimes,Sometimes,2,Sometimes,Sometimes,18
+P0298,Poor,Never,Daily,Yes,Yes,5,Yes,Yes,3
+P0299,Good,3-4x/week,Rarely,Rarely,Rarely,2,Sometimes,Rarely,28
+P0300,Poor,Never,Daily,Yes,Yes,5,Yes,Yes,3

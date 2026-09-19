@@ -1,0 +1,301 @@
+participant_id,age,age_group,gender,race_ethnicity,nationality,country_of_residence,education_level,employment_status,occupation_category,relationship_status
+P0001,16,13-17,Female,South Asian,Indian,India,High school,Student,Education,Single
+P0002,17,13-17,Male,East Asian,Chinese,China,High school,Student,Education,Single
+P0003,15,13-17,Female,Black/African,Nigerian,Nigeria,High school,Student,Education,Single
+P0004,19,18-22,Male,White/Caucasian,American,USA,High school,Student,Education,Single
+P0005,18,18-22,Female,Hispanic/Latino,Mexican,Mexico,High school,Student,Education,Single
+P0006,16,13-17,Male,South Asian,Pakistani,Pakistan,High school,Student,Education,Single
+P0007,21,18-22,Female,White/Caucasian,British,UK,Undergraduate,Student,Education,Single
+P0008,20,18-22,Male,East Asian,Japanese,Japan,Undergraduate,Student,Education,Single
+P0009,22,18-22,Female,South Asian,Bangladeshi,Bangladesh,Undergraduate,Student,Education,Single
+P0010,17,13-17,Male,Black/African,Kenyan,Kenya,High school,Student,Education,Single
+P0011,23,18-22,Female,White/Caucasian,Australian,Australia,Undergraduate,Student,Education,In a relationship
+P0012,19,18-22,Male,Hispanic/Latino,Brazilian,Brazil,High school,Student,Education,Single
+P0013,21,18-22,Female,Middle Eastern,Saudi,Saudi Arabia,Undergraduate,Student,Education,Single
+P0014,24,23-27,Male,South Asian,Indian,India,Undergraduate,Student,Education,Single
+P0015,20,18-22,Female,East Asian,South Korean,South Korea,Undergraduate,Student,Education,Single
+P0016,18,18-22,Male,White/Caucasian,Canadian,Canada,High school,Student,Education,Single
+P0017,22,18-22,Female,Black/African,South African,South Africa,Undergraduate,Student,Education,Single
+P0018,25,23-27,Male,East Asian,Chinese,China,Undergraduate,Full-time employed,Technology,Single
+P0019,16,13-17,Female,Hispanic/Latino,Colombian,Colombia,High school,Student,Education,Single
+P0020,21,18-22,Male,South Asian,Indian,India,Undergraduate,Student,Education,Single
+P0021,17,13-17,Female,White/Caucasian,American,USA,High school,Student,Education,Single
+P0022,23,23-27,Male,East Asian,Japanese,Japan,Undergraduate,Part-time employed,Retail,In a relationship
+P0023,19,18-22,Female,Black/African,Ghanaian,Ghana,High school,Student,Education,Single
+P0024,20,18-22,Male,Hispanic/Latino,Argentinian,Argentina,Undergraduate,Student,Education,Single
+P0025,22,18-22,Female,South Asian,Sri Lankan,Sri Lanka,Undergraduate,Student,Education,Single
+P0026,18,18-22,Male,White/Caucasian,German,Germany,High school,Student,Education,Single
+P0027,24,23-27,Female,East Asian,South Korean,South Korea,Undergraduate,Part-time employed,Creative,In a relationship
+P0028,21,18-22,Male,South Asian,Nepali,Nepal,Undergraduate,Student,Education,Single
+P0029,17,13-17,Female,Middle Eastern,Turkish,Turkey,High school,Student,Education,Single
+P0030,20,18-22,Male,Black/African,Ethiopian,Ethiopia,High school,Student,Education,Single
+P0031,23,23-27,Female,White/Caucasian,French,France,Undergraduate,Student,Education,In a relationship
+P0032,19,18-22,Male,East Asian,Filipino,Philippines,High school,Student,Education,Single
+P0033,22,18-22,Female,South Asian,Indian,India,Undergraduate,Student,Education,Single
+P0034,25,23-27,Male,White/Caucasian,American,USA,Undergraduate,Full-time employed,Technology,In a relationship
+P0035,16,13-17,Female,Black/African,Nigerian,Nigeria,High school,Student,Education,Single
+P0036,21,18-22,Male,Hispanic/Latino,Mexican,Mexico,Undergraduate,Student,Education,Single
+P0037,24,23-27,Female,East Asian,Chinese,China,Undergraduate,Student,Education,In a relationship
+P0038,18,18-22,Male,South Asian,Pakistani,Pakistan,High school,Student,Education,Single
+P0039,20,18-22,Female,White/Caucasian,British,UK,Undergraduate,Part-time employed,Retail,Single
+P0040,22,18-22,Male,Middle Eastern,Iranian,Iran,Undergraduate,Student,Education,Single
+P0041,19,18-22,Female,East Asian,Vietnamese,Vietnam,High school,Student,Education,Single
+P0042,23,23-27,Male,Black/African,Cameroonian,Cameroon,Undergraduate,Student,Education,Single
+P0043,21,18-22,Female,Hispanic/Latino,Venezuelan,Venezuela,Undergraduate,Student,Education,Single
+P0044,17,13-17,Male,White/Caucasian,Australian,Australia,High school,Student,Education,Single
+P0045,24,23-27,Female,South Asian,Indian,India,Undergraduate,Full-time employed,Technology,In a relationship
+P0046,20,18-22,Male,East Asian,Thai,Thailand,Undergraduate,Student,Education,Single
+P0047,16,13-17,Female,White/Caucasian,Canadian,Canada,High school,Student,Education,Single
+P0048,22,18-22,Male,Black/African,Zimbabwean,Zimbabwe,Undergraduate,Student,Education,Single
+P0049,25,23-27,Female,East Asian,Malaysian,Malaysia,Undergraduate,Full-time employed,Finance,Single
+P0050,18,18-22,Male,Hispanic/Latino,Peruvian,Peru,High school,Student,Education,Single
+P0051,21,18-22,Female,Middle Eastern,Lebanese,Lebanon,Undergraduate,Student,Education,Single
+P0052,23,23-27,Male,White/Caucasian,American,USA,Undergraduate,Part-time employed,Hospitality,In a relationship
+P0053,19,18-22,Female,South Asian,Bangladeshi,Bangladesh,High school,Student,Education,Single
+P0054,24,23-27,Male,East Asian,Indonesian,Indonesia,Undergraduate,Full-time employed,Retail,Single
+P0055,20,18-22,Female,Black/African,Senegalese,Senegal,Undergraduate,Student,Education,Single
+P0056,22,18-22,Male,White/Caucasian,Spanish,Spain,Undergraduate,Student,Education,In a relationship
+P0057,17,13-17,Female,South Asian,Indian,India,High school,Student,Education,Single
+P0058,25,23-27,Male,Hispanic/Latino,Colombian,Colombia,Undergraduate,Full-time employed,Business,Single
+P0059,18,18-22,Female,East Asian,Thai,Thailand,High school,Student,Education,Single
+P0060,23,23-27,Male,Middle Eastern,Egyptian,Egypt,Undergraduate,Student,Education,Single
+P0061,26,23-27,Female,White/Caucasian,American,USA,Undergraduate,Full-time employed,Technology,In a relationship
+P0062,28,28-35,Male,East Asian,Chinese,China,Postgraduate,Full-time employed,Technology,Single
+P0063,25,23-27,Female,South Asian,Indian,India,Postgraduate,Full-time employed,Finance,Single
+P0064,30,28-35,Male,Black/African,Nigerian,Nigeria,Undergraduate,Full-time employed,Business,In a relationship
+P0065,27,23-27,Female,White/Caucasian,British,UK,Postgraduate,Full-time employed,Healthcare,In a relationship
+P0066,32,28-35,Male,Hispanic/Latino,Mexican,Mexico,Undergraduate,Full-time employed,Engineering,Married
+P0067,29,28-35,Female,East Asian,Japanese,Japan,Postgraduate,Full-time employed,Finance,Single
+P0068,26,23-27,Male,South Asian,Pakistani,Pakistan,Undergraduate,Full-time employed,Technology,Single
+P0069,34,28-35,Female,White/Caucasian,Australian,Australia,Postgraduate,Full-time employed,Healthcare,Married
+P0070,27,23-27,Male,Black/African,South African,South Africa,Undergraduate,Full-time employed,Creative,Single
+P0071,31,28-35,Female,South Asian,Indian,India,Postgraduate,Full-time employed,Education,Married
+P0072,25,23-27,Male,East Asian,South Korean,South Korea,Undergraduate,Full-time employed,Technology,Single
+P0073,28,28-35,Female,Hispanic/Latino,Brazilian,Brazil,Postgraduate,Full-time employed,Marketing,In a relationship
+P0074,33,28-35,Male,White/Caucasian,American,USA,Postgraduate,Full-time employed,Finance,Married
+P0075,29,28-35,Female,Middle Eastern,Turkish,Turkey,Undergraduate,Full-time employed,Education,In a relationship
+P0076,35,28-35,Male,East Asian,Chinese,China,Postgraduate,Full-time employed,Technology,Married
+P0077,27,23-27,Female,White/Caucasian,German,Germany,Postgraduate,Full-time employed,Research,Single
+P0078,30,28-35,Male,South Asian,Indian,India,Postgraduate,Full-time employed,Technology,In a relationship
+P0079,26,23-27,Female,Black/African,Kenyan,Kenya,Undergraduate,Full-time employed,Government,Single
+P0080,34,28-35,Male,White/Caucasian,British,UK,Postgraduate,Full-time employed,Finance,Married
+P0081,28,28-35,Female,East Asian,Vietnamese,Vietnam,Undergraduate,Full-time employed,Retail,In a relationship
+P0082,25,23-27,Male,Hispanic/Latino,Colombian,Colombia,Undergraduate,Full-time employed,Hospitality,Single
+P0083,31,28-35,Female,White/Caucasian,Australian,Australia,Postgraduate,Full-time employed,Healthcare,In a relationship
+P0084,29,28-35,Male,South Asian,Pakistani,Pakistan,Postgraduate,Full-time employed,Engineering,Married
+P0085,27,23-27,Female,Black/African,Ghanaian,Ghana,Undergraduate,Full-time employed,Education,Single
+P0086,33,28-35,Male,White/Caucasian,Canadian,Canada,Postgraduate,Full-time employed,Technology,Married
+P0087,26,23-27,Female,East Asian,Japanese,Japan,Postgraduate,Full-time employed,Finance,Single
+P0088,30,28-35,Male,Hispanic/Latino,Argentinian,Argentina,Undergraduate,Full-time employed,Creative,In a relationship
+P0089,28,28-35,Female,South Asian,Sri Lankan,Sri Lanka,Undergraduate,Full-time employed,Government,Single
+P0090,35,28-35,Male,White/Caucasian,American,USA,Postgraduate,Full-time employed,Research,Married
+P0091,32,28-35,Female,East Asian,South Korean,South Korea,Postgraduate,Full-time employed,Technology,In a relationship
+P0092,27,23-27,Male,Black/African,Nigerian,Nigeria,Undergraduate,Full-time employed,Business,Single
+P0093,29,28-35,Female,Hispanic/Latino,Mexican,Mexico,Postgraduate,Full-time employed,Marketing,In a relationship
+P0094,34,28-35,Male,Middle Eastern,Lebanese,Lebanon,Undergraduate,Full-time employed,Finance,Married
+P0095,26,23-27,Female,White/Caucasian,French,France,Postgraduate,Full-time employed,Research,Single
+P0096,31,28-35,Male,South Asian,Indian,India,Postgraduate,Full-time employed,Engineering,Married
+P0097,28,28-35,Female,East Asian,Malaysian,Malaysia,Undergraduate,Full-time employed,Retail,In a relationship
+P0098,33,28-35,Male,White/Caucasian,Spanish,Spain,Postgraduate,Full-time employed,Education,Married
+P0099,25,23-27,Female,Black/African,Cameroonian,Cameroon,Undergraduate,Full-time employed,Government,Single
+P0100,30,28-35,Male,Hispanic/Latino,Peruvian,Peru,Undergraduate,Full-time employed,Hospitality,In a relationship
+P0101,27,23-27,Female,Middle Eastern,Iranian,Iran,Postgraduate,Full-time employed,Research,Single
+P0102,35,28-35,Female,White/Caucasian,German,Germany,Postgraduate,Full-time employed,Healthcare,Married
+P0103,29,28-35,Male,East Asian,Indonesian,Indonesia,Undergraduate,Full-time employed,Technology,In a relationship
+P0104,26,23-27,Female,South Asian,Bangladeshi,Bangladesh,Undergraduate,Full-time employed,Education,Single
+P0105,32,28-35,Male,Black/African,Kenyan,Kenya,Postgraduate,Full-time employed,Finance,Married
+P0106,28,28-35,Female,White/Caucasian,Canadian,Canada,Postgraduate,Full-time employed,Research,Single
+P0107,34,28-35,Male,Hispanic/Latino,Venezuelan,Venezuela,Undergraduate,Full-time employed,Business,Married
+P0108,27,23-27,Female,East Asian,Filipino,Philippines,Undergraduate,Full-time employed,Retail,In a relationship
+P0109,31,28-35,Male,South Asian,Indian,India,Postgraduate,Full-time employed,Technology,Married
+P0110,25,23-27,Female,Black/African,Nigerian,Nigeria,Undergraduate,Full-time employed,Creative,Single
+P0111,29,28-35,Male,White/Caucasian,Australian,Australia,Postgraduate,Full-time employed,Engineering,In a relationship
+P0112,33,28-35,Female,East Asian,South Korean,South Korea,Postgraduate,Full-time employed,Marketing,Married
+P0113,26,23-27,Male,Hispanic/Latino,Colombian,Colombia,Undergraduate,Full-time employed,Hospitality,Single
+P0114,28,28-35,Female,South Asian,Pakistani,Pakistan,Postgraduate,Full-time employed,Healthcare,Married
+P0115,35,28-35,Male,Black/African,South African,South Africa,Postgraduate,Full-time employed,Finance,Married
+P0116,27,23-27,Female,Middle Eastern,Egyptian,Egypt,Undergraduate,Full-time employed,Education,Single
+P0117,32,28-35,Male,White/Caucasian,French,France,Postgraduate,Full-time employed,Technology,Married
+P0118,30,28-35,Female,East Asian,Japanese,Japan,Postgraduate,Full-time employed,Research,In a relationship
+P0119,25,23-27,Male,South Asian,Indian,India,Undergraduate,Full-time employed,Technology,Single
+P0120,34,28-35,Female,Black/African,Ethiopian,Ethiopia,Undergraduate,Full-time employed,Government,Married
+P0121,38,36-49,Male,White/Caucasian,American,USA,Postgraduate,Full-time employed,Technology,Married
+P0122,42,36-49,Female,East Asian,Chinese,China,Postgraduate,Full-time employed,Healthcare,Married
+P0123,35,28-35,Female,South Asian,Indian,India,Postgraduate,Full-time employed,Education,Married
+P0124,45,36-49,Male,Black/African,Nigerian,Nigeria,Undergraduate,Full-time employed,Government,Married
+P0125,39,36-49,Female,White/Caucasian,British,UK,Postgraduate,Full-time employed,Healthcare,Married
+P0126,47,36-49,Male,Hispanic/Latino,Mexican,Mexico,Undergraduate,Full-time employed,Business,Married
+P0127,36,36-49,Female,East Asian,Japanese,Japan,Postgraduate,Full-time employed,Finance,In a relationship
+P0128,43,36-49,Male,White/Caucasian,Australian,Australia,Postgraduate,Full-time employed,Research,Married
+P0129,37,36-49,Female,South Asian,Pakistani,Pakistan,Undergraduate,Full-time employed,Education,Married
+P0130,48,36-49,Male,Black/African,South African,South Africa,Postgraduate,Full-time employed,Finance,Married
+P0131,41,36-49,Female,Hispanic/Latino,Brazilian,Brazil,Postgraduate,Full-time employed,Marketing,Married
+P0132,36,36-49,Male,Middle Eastern,Turkish,Turkey,Postgraduate,Full-time employed,Technology,Married
+P0133,44,36-49,Female,White/Caucasian,German,Germany,Postgraduate,Full-time employed,Healthcare,Married
+P0134,40,36-49,Male,East Asian,South Korean,South Korea,Postgraduate,Full-time employed,Engineering,Married
+P0135,46,36-49,Female,South Asian,Indian,India,Postgraduate,Full-time employed,Healthcare,Married
+P0136,38,36-49,Male,White/Caucasian,French,France,Postgraduate,Full-time employed,Government,Married
+P0137,43,36-49,Female,Black/African,Kenyan,Kenya,Undergraduate,Full-time employed,Education,Married
+P0138,49,36-49,Male,Hispanic/Latino,Colombian,Colombia,Undergraduate,Full-time employed,Business,Married
+P0139,37,36-49,Female,East Asian,Malaysian,Malaysia,Postgraduate,Full-time employed,Finance,Married
+P0140,44,36-49,Male,South Asian,Pakistani,Pakistan,Postgraduate,Full-time employed,Engineering,Married
+P0141,39,36-49,Female,White/Caucasian,Canadian,Canada,Postgraduate,Full-time employed,Research,Married
+P0142,48,36-49,Male,Black/African,Ghanaian,Ghana,Undergraduate,Full-time employed,Government,Married
+P0143,36,36-49,Female,Hispanic/Latino,Argentinian,Argentina,Postgraduate,Full-time employed,Creative,Married
+P0144,42,36-49,Male,East Asian,Indonesian,Indonesia,Undergraduate,Full-time employed,Business,Married
+P0145,46,36-49,Female,South Asian,Sri Lankan,Sri Lanka,Undergraduate,Full-time employed,Healthcare,Married
+P0146,40,36-49,Male,White/Caucasian,American,USA,Postgraduate,Full-time employed,Technology,Married
+P0147,37,36-49,Female,Black/African,Nigerian,Nigeria,Postgraduate,Full-time employed,Finance,Married
+P0148,43,36-49,Male,Hispanic/Latino,Mexican,Mexico,Undergraduate,Full-time employed,Engineering,Married
+P0149,47,36-49,Female,East Asian,Vietnamese,Vietnam,Undergraduate,Full-time employed,Retail,Married
+P0150,38,36-49,Male,South Asian,Indian,India,Postgraduate,Full-time employed,Healthcare,Married
+P0151,45,36-49,Female,White/Caucasian,British,UK,Postgraduate,Full-time employed,Education,Married
+P0152,41,36-49,Male,Black/African,Cameroonian,Cameroon,Undergraduate,Full-time employed,Government,Married
+P0153,44,36-49,Female,Middle Eastern,Lebanese,Lebanon,Postgraduate,Full-time employed,Finance,Married
+P0154,39,36-49,Male,East Asian,Filipino,Philippines,Undergraduate,Full-time employed,Retail,Married
+P0155,46,36-49,Female,South Asian,Bangladeshi,Bangladesh,Undergraduate,Full-time employed,Education,Married
+P0156,48,36-49,Male,Hispanic/Latino,Peruvian,Peru,Undergraduate,Full-time employed,Business,Married
+P0157,37,36-49,Female,White/Caucasian,Australian,Australia,Postgraduate,Full-time employed,Healthcare,Married
+P0158,43,36-49,Male,East Asian,Thai,Thailand,Undergraduate,Full-time employed,Hospitality,Married
+P0159,40,36-49,Female,Black/African,Ethiopian,Ethiopia,Undergraduate,Full-time employed,Government,Married
+P0160,36,36-49,Male,South Asian,Pakistani,Pakistan,Postgraduate,Full-time employed,Technology,Married
+P0161,47,36-49,Female,Hispanic/Latino,Venezuelan,Venezuela,Undergraduate,Full-time employed,Education,Married
+P0162,42,36-49,Male,White/Caucasian,German,Germany,Postgraduate,Full-time employed,Finance,Married
+P0163,38,36-49,Female,East Asian,Chinese,China,Postgraduate,Full-time employed,Marketing,Married
+P0164,49,36-49,Male,Black/African,Zimbabwean,Zimbabwe,Undergraduate,Full-time employed,Government,Married
+P0165,44,36-49,Female,South Asian,Nepali,Nepal,Undergraduate,Full-time employed,Healthcare,Married
+P0166,39,36-49,Male,East Asian,South Korean,South Korea,Postgraduate,Full-time employed,Technology,Married
+P0167,45,36-49,Female,White/Caucasian,American,USA,Postgraduate,Full-time employed,Research,Married
+P0168,41,36-49,Male,Hispanic/Latino,Colombian,Colombia,Undergraduate,Full-time employed,Business,Married
+P0169,48,36-49,Female,Black/African,Senegalese,Senegal,Undergraduate,Full-time employed,Education,Married
+P0170,37,36-49,Male,Middle Eastern,Saudi,Saudi Arabia,Undergraduate,Full-time employed,Finance,Married
+P0171,43,36-49,Female,East Asian,Japanese,Japan,Postgraduate,Full-time employed,Healthcare,Married
+P0172,40,36-49,Male,White/Caucasian,British,UK,Postgraduate,Full-time employed,Engineering,Married
+P0173,46,36-49,Female,South Asian,Indian,India,Postgraduate,Full-time employed,Government,Married
+P0174,42,36-49,Male,Black/African,Nigerian,Nigeria,Undergraduate,Full-time employed,Healthcare,Married
+P0175,47,36-49,Female,Hispanic/Latino,Mexican,Mexico,Undergraduate,Full-time employed,Retail,Married
+P0176,38,36-49,Male,East Asian,Chinese,China,Postgraduate,Full-time employed,Technology,Married
+P0177,44,36-49,Female,White/Caucasian,Spanish,Spain,Postgraduate,Full-time employed,Education,Married
+P0178,36,36-49,Male,South Asian,Pakistani,Pakistan,Undergraduate,Full-time employed,Manufacturing,Married
+P0179,49,36-49,Female,Black/African,Kenyan,Kenya,Undergraduate,Full-time employed,Education,Married
+P0180,41,36-49,Male,Middle Eastern,Egyptian,Egypt,Undergraduate,Full-time employed,Government,Married
+P0181,52,50-59,Male,White/Caucasian,American,USA,Postgraduate,Full-time employed,Government,Married
+P0182,58,50-59,Female,East Asian,Chinese,China,Postgraduate,Full-time employed,Healthcare,Married
+P0183,55,50-59,Male,South Asian,Indian,India,Postgraduate,Full-time employed,Education,Married
+P0184,61,60+,Female,Black/African,Nigerian,Nigeria,Undergraduate,Retired,Other,Married
+P0185,53,50-59,Male,White/Caucasian,British,UK,Postgraduate,Full-time employed,Finance,Married
+P0186,67,60+,Female,Hispanic/Latino,Mexican,Mexico,Undergraduate,Retired,Other,Married
+P0187,56,50-59,Male,East Asian,Japanese,Japan,Postgraduate,Full-time employed,Technology,Married
+P0188,63,60+,Female,South Asian,Indian,India,Postgraduate,Retired,Other,Married
+P0189,50,50-59,Male,Black/African,South African,South Africa,Postgraduate,Full-time employed,Healthcare,Married
+P0190,72,60+,Male,White/Caucasian,Australian,Australia,Undergraduate,Retired,Other,Married
+P0191,54,50-59,Female,East Asian,South Korean,South Korea,Postgraduate,Full-time employed,Education,Married
+P0192,68,60+,Male,Hispanic/Latino,Brazilian,Brazil,Undergraduate,Retired,Other,Married
+P0193,57,50-59,Female,White/Caucasian,American,USA,Postgraduate,Full-time employed,Research,Married
+P0194,64,60+,Female,Black/African,Kenyan,Kenya,Undergraduate,Retired,Other,Married
+P0195,51,50-59,Male,East Asian,Chinese,China,Postgraduate,Full-time employed,Government,Married
+P0196,70,60+,Female,White/Caucasian,British,UK,Undergraduate,Retired,Other,Married
+P0197,55,50-59,Male,South Asian,Pakistani,Pakistan,Postgraduate,Full-time employed,Engineering,Married
+P0198,62,60+,Male,Black/African,Ghanaian,Ghana,Undergraduate,Retired,Other,Married
+P0199,53,50-59,Female,Hispanic/Latino,Colombian,Colombia,Undergraduate,Full-time employed,Healthcare,Married
+P0200,75,60+,Male,White/Caucasian,American,USA,Undergraduate,Retired,Other,Married
+P0201,59,50-59,Female,East Asian,Vietnamese,Vietnam,Undergraduate,Full-time employed,Retail,Married
+P0202,66,60+,Male,South Asian,Indian,India,Postgraduate,Retired,Other,Married
+P0203,54,50-59,Female,White/Caucasian,German,Germany,Postgraduate,Full-time employed,Education,Married
+P0204,71,60+,Female,Black/African,Nigerian,Nigeria,Undergraduate,Retired,Other,Married
+P0205,52,50-59,Male,Hispanic/Latino,Argentinian,Argentina,Undergraduate,Full-time employed,Finance,Married
+P0206,60,50-59,Female,East Asian,Japanese,Japan,Postgraduate,Full-time employed,Healthcare,Married
+P0207,65,60+,Male,White/Caucasian,Canadian,Canada,Postgraduate,Retired,Other,Married
+P0208,57,50-59,Female,South Asian,Sri Lankan,Sri Lanka,Undergraduate,Full-time employed,Education,Married
+P0209,69,60+,Male,Black/African,Ethiopian,Ethiopia,Undergraduate,Retired,Other,Married
+P0210,53,50-59,Female,Hispanic/Latino,Mexican,Mexico,Undergraduate,Full-time employed,Government,Married
+P0211,58,50-59,Male,East Asian,Chinese,China,Postgraduate,Full-time employed,Technology,Married
+P0212,73,60+,Female,White/Caucasian,British,UK,Undergraduate,Retired,Other,Married
+P0213,51,50-59,Male,South Asian,Indian,India,Postgraduate,Full-time employed,Healthcare,Married
+P0214,64,60+,Female,Hispanic/Latino,Brazilian,Brazil,Undergraduate,Retired,Other,Married
+P0215,55,50-59,Male,White/Caucasian,Australian,Australia,Postgraduate,Full-time employed,Engineering,Married
+P0216,67,60+,Female,East Asian,South Korean,South Korea,Undergraduate,Retired,Other,Married
+P0217,56,50-59,Male,Black/African,South African,South Africa,Undergraduate,Full-time employed,Finance,Married
+P0218,70,60+,Female,South Asian,Indian,India,Undergraduate,Retired,Other,Married
+P0219,53,50-59,Male,Hispanic/Latino,Colombian,Colombia,Undergraduate,Full-time employed,Business,Married
+P0220,62,60+,Female,White/Caucasian,French,France,Postgraduate,Retired,Other,Married
+P0221,57,50-59,Male,East Asian,Indonesian,Indonesia,Undergraduate,Full-time employed,Government,Married
+P0222,65,60+,Female,Black/African,Nigerian,Nigeria,Undergraduate,Retired,Other,Married
+P0223,52,50-59,Male,White/Caucasian,Spanish,Spain,Postgraduate,Full-time employed,Technology,Married
+P0224,68,60+,Male,East Asian,Thai,Thailand,Undergraduate,Retired,Other,Married
+P0225,54,50-59,Female,South Asian,Bangladeshi,Bangladesh,Undergraduate,Full-time employed,Education,Married
+P0226,71,60+,Female,Hispanic/Latino,Peruvian,Peru,Undergraduate,Retired,Other,Married
+P0227,59,50-59,Male,Black/African,Cameroonian,Cameroon,Undergraduate,Full-time employed,Healthcare,Married
+P0228,66,60+,Male,White/Caucasian,American,USA,Postgraduate,Retired,Other,Married
+P0229,55,50-59,Female,East Asian,Malaysian,Malaysia,Undergraduate,Full-time employed,Retail,Married
+P0230,63,60+,Female,South Asian,Indian,India,Undergraduate,Retired,Other,Married
+P0231,50,50-59,Male,White/Caucasian,German,Germany,Postgraduate,Full-time employed,Finance,Married
+P0232,74,60+,Male,Black/African,South African,South Africa,Undergraduate,Retired,Other,Married
+P0233,52,50-59,Female,Hispanic/Latino,Venezuelan,Venezuela,Undergraduate,Full-time employed,Education,Married
+P0234,61,60+,Male,East Asian,Filipino,Philippines,Undergraduate,Retired,Other,Married
+P0235,57,50-59,Female,White/Caucasian,Canadian,Canada,Postgraduate,Full-time employed,Healthcare,Married
+P0236,69,60+,Male,Hispanic/Latino,Argentinian,Argentina,Undergraduate,Retired,Other,Married
+P0237,54,50-59,Female,East Asian,Vietnamese,Vietnam,Undergraduate,Full-time employed,Retail,Married
+P0238,58,50-59,Male,South Asian,Pakistani,Pakistan,Undergraduate,Full-time employed,Government,Married
+P0239,72,60+,Female,Black/African,Kenyan,Kenya,Undergraduate,Retired,Other,Married
+P0240,51,50-59,Male,White/Caucasian,Australian,Australia,Postgraduate,Full-time employed,Research,Married
+P0241,45,36-49,Male,White/Caucasian,American,USA,Postgraduate,Full-time employed,Technology,Divorced
+P0242,38,36-49,Female,East Asian,Chinese,China,Postgraduate,Full-time employed,Marketing,Single
+P0243,33,28-35,Non-binary,White/Caucasian,American,USA,Undergraduate,Full-time employed,Creative,Single
+P0244,27,23-27,Female,Black/African,American,USA,Undergraduate,Job seeker,Other,Single
+P0245,19,18-22,Male,Native American,American,USA,High school,Student,Education,Single
+P0246,42,36-49,Female,White/Caucasian,Australian,Australia,Postgraduate,Self-employed,Creative,Divorced
+P0247,29,28-35,Non-binary,Hispanic/Latino,Mexican,Mexico,Postgraduate,Full-time employed,Technology,In a relationship
+P0248,16,13-17,Female,South Asian,Indian,India,High school,Student,Education,Single
+P0249,23,18-22,Male,East Asian,South Korean,South Korea,Undergraduate,Student,Education,Single
+P0250,35,28-35,Female,Black/African,American,USA,Undergraduate,Full-time employed,Healthcare,Married
+P0251,18,18-22,Female,White/Caucasian,American,USA,High school,Student,Education,Single
+P0252,31,28-35,Male,South Asian,Indian,India,Postgraduate,Full-time employed,Technology,Single
+P0253,25,23-27,Non-binary,White/Caucasian,British,UK,Undergraduate,Part-time employed,Creative,Single
+P0254,40,36-49,Male,Hispanic/Latino,Brazilian,Brazil,Undergraduate,Freelancer,Creative,Divorced
+P0255,22,18-22,Female,Black/African,Nigerian,Nigeria,Undergraduate,Student,Education,Single
+P0256,47,36-49,Female,Middle Eastern,Iranian,Iran,Postgraduate,Full-time employed,Education,Married
+P0257,20,18-22,Male,East Asian,Filipino,Philippines,High school,Student,Education,Single
+P0258,34,28-35,Non-binary,White/Caucasian,German,Germany,Postgraduate,Full-time employed,Research,Single
+P0259,17,13-17,Female,East Asian,Japanese,Japan,High school,Student,Education,Single
+P0260,29,28-35,Male,Black/African,Ghanaian,Ghana,Undergraduate,Full-time employed,Creative,Single
+P0261,21,18-22,Female,South Asian,Bangladeshi,Bangladesh,Undergraduate,Student,Education,Single
+P0262,36,36-49,Male,White/Caucasian,Spanish,Spain,Postgraduate,Self-employed,Technology,In a relationship
+P0263,16,13-17,Male,Black/African,South African,South Africa,High school,Student,Education,Single
+P0264,44,36-49,Female,East Asian,Chinese,China,Postgraduate,Full-time employed,Healthcare,Married
+P0265,24,23-27,Non-binary,Black/African,American,USA,Undergraduate,Job seeker,Other,Single
+P0266,31,28-35,Female,Hispanic/Latino,Mexican,Mexico,Undergraduate,Part-time employed,Hospitality,Single
+P0267,19,18-22,Male,South Asian,Pakistani,Pakistan,High school,Student,Education,Single
+P0268,52,50-59,Female,White/Caucasian,American,USA,Postgraduate,Full-time employed,Education,Divorced
+P0269,26,23-27,Female,East Asian,Malaysian,Malaysia,Undergraduate,Full-time employed,Finance,In a relationship
+P0270,43,36-49,Male,Black/African,Nigerian,Nigeria,Postgraduate,Full-time employed,Technology,Married
+P0271,21,18-22,Female,White/Caucasian,Canadian,Canada,Undergraduate,Student,Education,Single
+P0272,38,36-49,Male,South Asian,Indian,India,Postgraduate,Full-time employed,Government,Married
+P0273,27,23-27,Non-binary,White/Caucasian,French,France,Postgraduate,Full-time employed,Creative,Single
+P0274,20,18-22,Male,Black/African,Cameroonian,Cameroon,High school,Student,Education,Single
+P0275,33,28-35,Female,Hispanic/Latino,Colombian,Colombia,Undergraduate,Full-time employed,Marketing,In a relationship
+P0276,48,36-49,Female,East Asian,Thai,Thailand,Postgraduate,Full-time employed,Healthcare,Married
+P0277,22,18-22,Male,South Asian,Nepali,Nepal,Undergraduate,Student,Education,Single
+P0278,36,36-49,Female,Black/African,Ethiopian,Ethiopia,Undergraduate,Full-time employed,Healthcare,Married
+P0279,25,23-27,Male,East Asian,Indonesian,Indonesia,Undergraduate,Full-time employed,Technology,Single
+P0280,17,13-17,Female,Hispanic/Latino,Venezuelan,Venezuela,High school,Student,Education,Single
+P0281,44,36-49,Male,White/Caucasian,German,Germany,Postgraduate,Full-time employed,Finance,Married
+P0282,32,28-35,Female,South Asian,Sri Lankan,Sri Lanka,Undergraduate,Full-time employed,Retail,Married
+P0283,23,18-22,Male,White/Caucasian,American,USA,Undergraduate,Student,Education,Single
+P0284,18,18-22,Female,East Asian,Vietnamese,Vietnam,High school,Student,Education,Single
+P0285,41,36-49,Female,Black/African,Zimbabwean,Zimbabwe,Undergraduate,Full-time employed,Education,Married
+P0286,26,23-27,Male,Hispanic/Latino,Peruvian,Peru,Undergraduate,Full-time employed,Business,Single
+P0287,34,28-35,Non-binary,East Asian,South Korean,South Korea,Postgraduate,Full-time employed,Creative,In a relationship
+P0288,15,13-17,Male,Black/African,Nigerian,Nigeria,High school,Student,Education,Single
+P0289,28,28-35,Female,White/Caucasian,Australian,Australia,Postgraduate,Full-time employed,Technology,Single
+P0290,21,18-22,Male,Hispanic/Latino,Colombian,Colombia,Undergraduate,Student,Education,Single
+P0291,53,50-59,Female,East Asian,Chinese,China,Postgraduate,Full-time employed,Healthcare,Married
+P0292,19,18-22,Female,Middle Eastern,Saudi,Saudi Arabia,High school,Student,Education,Single
+P0293,30,28-35,Male,White/Caucasian,American,USA,Postgraduate,Full-time employed,Finance,In a relationship
+P0294,16,13-17,Female,East Asian,South Korean,South Korea,High school,Student,Education,Single
+P0295,39,36-49,Male,South Asian,Indian,India,Postgraduate,Freelancer,Technology,In a relationship
+P0296,24,23-27,Female,White/Caucasian,British,UK,Undergraduate,Job seeker,Other,Single
+P0297,35,28-35,Male,Black/African,Senegalese,Senegal,Undergraduate,Full-time employed,Business,Married
+P0298,20,18-22,Female,Hispanic/Latino,Mexican,Mexico,High school,Student,Education,Single
+P0299,46,36-49,Male,East Asian,Filipino,Philippines,Undergraduate,Full-time employed,Government,Married
+P0300,22,18-22,Male,Black/African,Nigerian,Nigeria,Undergraduate,Student,Education,Single

@@ -1,0 +1,301 @@
+participant_id,task_switching_frequency,difficulty_starting_tasks,difficulty_maintaining_focus,mind_wandering_during_work,creative_output_frequency,memory_recall_difficulty,learning_retention_difficulty,productivity_decline_score
+P0001,High,Yes,Yes,Yes,Low,Yes,Yes,Critical
+P0002,High,Yes,Yes,Yes,Low,Yes,Yes,Critical
+P0003,High,Yes,Yes,Yes,Low,Yes,Yes,Severe
+P0004,High,Yes,Yes,Yes,Low,Yes,Yes,Severe
+P0005,High,Yes,Yes,Yes,Low,Yes,Yes,Critical
+P0006,High,Yes,Yes,Yes,Low,Yes,Yes,Severe
+P0007,High,Yes,Yes,Yes,Low,Yes,Yes,Severe
+P0008,Moderate,Yes,Yes,Sometimes,Moderate,Yes,Yes,Moderate
+P0009,High,Yes,Yes,Yes,Low,Yes,Yes,Critical
+P0010,High,Yes,Yes,Yes,Moderate,Yes,Yes,Severe
+P0011,Moderate,Yes,Yes,Sometimes,Moderate,Yes,Yes,Moderate
+P0012,High,Yes,Yes,Yes,Low,Yes,Yes,Severe
+P0013,High,Yes,Yes,Yes,Low,Yes,Yes,Severe
+P0014,Moderate,Yes,Sometimes,Sometimes,Moderate,Yes,Yes,Moderate
+P0015,High,Yes,Yes,Yes,Low,Yes,Yes,Critical
+P0016,Moderate,Yes,Yes,Sometimes,Moderate,Yes,Yes,Moderate
+P0017,High,Yes,Yes,Yes,Low,Yes,Yes,Severe
+P0018,Moderate,Sometimes,Sometimes,Sometimes,Moderate,Yes,Sometimes,Early
+P0019,High,Yes,Yes,Yes,Low,Yes,Yes,Critical
+P0020,High,Yes,Yes,Yes,Low,Yes,Yes,Severe
+P0021,High,Yes,Yes,Yes,Low,Yes,Yes,Critical
+P0022,Moderate,Sometimes,Sometimes,Sometimes,Moderate,Yes,Sometimes,Early
+P0023,High,Yes,Yes,Yes,Low,Yes,Yes,Severe
+P0024,High,Yes,Yes,Yes,Moderate,Yes,Yes,Moderate
+P0025,High,Yes,Yes,Yes,Low,Yes,Yes,Severe
+P0026,Moderate,Sometimes,Sometimes,Sometimes,Moderate,Yes,Sometimes,Early
+P0027,High,Yes,Yes,Sometimes,Low,Yes,Yes,Severe
+P0028,Moderate,Sometimes,Yes,Sometimes,Moderate,Yes,Yes,Early
+P0029,High,Yes,Yes,Yes,Low,Yes,Yes,Critical
+P0030,Moderate,Sometimes,Sometimes,Sometimes,Moderate,Yes,Sometimes,Early
+P0031,Moderate,Yes,Sometimes,Sometimes,Moderate,Yes,Yes,Moderate
+P0032,High,Yes,Yes,Yes,Low,Yes,Yes,Critical
+P0033,High,Yes,Yes,Yes,Low,Yes,Yes,Critical
+P0034,Moderate,Sometimes,Sometimes,Sometimes,Moderate,Yes,Sometimes,Early
+P0035,High,Yes,Yes,Yes,Low,Yes,Yes,Critical
+P0036,Moderate,Yes,Sometimes,Sometimes,Moderate,Yes,Yes,Moderate
+P0037,High,Yes,Yes,Yes,Low,Yes,Yes,Severe
+P0038,High,Yes,Yes,Yes,Low,Yes,Yes,Severe
+P0039,Moderate,Yes,Yes,Sometimes,Moderate,Yes,Yes,Moderate
+P0040,Moderate,Yes,Sometimes,Sometimes,Moderate,Yes,Yes,Moderate
+P0041,High,Yes,Yes,Yes,Low,Yes,Yes,Severe
+P0042,Moderate,Sometimes,Sometimes,Sometimes,Moderate,Yes,Sometimes,Early
+P0043,High,Yes,Yes,Yes,Low,Yes,Yes,Severe
+P0044,High,Yes,Yes,Yes,Low,Yes,Yes,Severe
+P0045,Moderate,Sometimes,Sometimes,Sometimes,Moderate,Yes,Sometimes,Early
+P0046,High,Yes,Yes,Sometimes,Low,Yes,Yes,Severe
+P0047,High,Yes,Yes,Yes,Low,Yes,Yes,Critical
+P0048,Moderate,Sometimes,Sometimes,Sometimes,Moderate,Yes,Sometimes,Early
+P0049,Moderate,Sometimes,Sometimes,Sometimes,Moderate,Yes,Sometimes,Early
+P0050,High,Yes,Yes,Yes,Low,Yes,Yes,Severe
+P0051,High,Yes,Yes,Yes,Low,Yes,Yes,Severe
+P0052,Moderate,Sometimes,Sometimes,Sometimes,Moderate,Yes,Sometimes,Early
+P0053,High,Yes,Yes,Yes,Low,Yes,Yes,Critical
+P0054,Moderate,Sometimes,Sometimes,Sometimes,Moderate,Yes,Sometimes,Early
+P0055,High,Yes,Yes,Sometimes,Low,Yes,Yes,Moderate
+P0056,Moderate,Sometimes,Sometimes,Sometimes,Moderate,Yes,Sometimes,Early
+P0057,High,Yes,Yes,Yes,Low,Yes,Yes,Critical
+P0058,Moderate,Sometimes,Sometimes,Sometimes,Moderate,Yes,Sometimes,Early
+P0059,High,Yes,Yes,Yes,Low,Yes,Yes,Critical
+P0060,Moderate,Sometimes,Sometimes,Sometimes,Moderate,Yes,Sometimes,Early
+P0061,Low,Sometimes,Sometimes,Rarely,Good,Sometimes,Sometimes,Early
+P0062,Low,Rarely,Sometimes,Rarely,Good,Rarely,Rarely,None/Minimal
+P0063,Moderate,Sometimes,Sometimes,Sometimes,Moderate,Yes,Sometimes,Early
+P0064,Low,Rarely,Sometimes,Rarely,Good,Rarely,Rarely,None/Minimal
+P0065,Low,Rarely,Rarely,Rarely,Good,Rarely,Rarely,None/Minimal
+P0066,Low,Rarely,Rarely,Rarely,Good,Rarely,Rarely,None/Minimal
+P0067,Moderate,Sometimes,Sometimes,Sometimes,Moderate,Yes,Sometimes,Moderate
+P0068,Moderate,Sometimes,Sometimes,Sometimes,Moderate,Yes,Sometimes,Early
+P0069,Low,Rarely,Rarely,Rarely,Good,Rarely,Rarely,None/Minimal
+P0070,Moderate,Sometimes,Sometimes,Sometimes,Moderate,Yes,Sometimes,Early
+P0071,Low,Rarely,Sometimes,Rarely,Good,Rarely,Rarely,None/Minimal
+P0072,Moderate,Sometimes,Yes,Sometimes,Moderate,Yes,Yes,Moderate
+P0073,Moderate,Sometimes,Sometimes,Sometimes,Moderate,Yes,Sometimes,Early
+P0074,Low,Rarely,Rarely,Rarely,Good,Rarely,Rarely,None/Minimal
+P0075,Moderate,Sometimes,Sometimes,Rarely,Moderate,Sometimes,Sometimes,Early
+P0076,Low,Rarely,Rarely,Rarely,Good,Rarely,Rarely,None/Minimal
+P0077,Low,Rarely,Sometimes,Rarely,Good,Rarely,Rarely,None/Minimal
+P0078,Moderate,Sometimes,Sometimes,Sometimes,Moderate,Yes,Sometimes,Early
+P0079,Low,Sometimes,Rarely,Rarely,Good,Sometimes,Rarely,Early
+P0080,Low,Rarely,Rarely,Rarely,Good,Rarely,Rarely,None/Minimal
+P0081,Moderate,Sometimes,Sometimes,Sometimes,Moderate,Yes,Sometimes,Early
+P0082,Moderate,Sometimes,Sometimes,Sometimes,Moderate,Yes,Sometimes,Early
+P0083,Low,Rarely,Rarely,Rarely,Good,Rarely,Rarely,None/Minimal
+P0084,Low,Rarely,Sometimes,Rarely,Good,Rarely,Rarely,None/Minimal
+P0085,Low,Sometimes,Rarely,Rarely,Good,Sometimes,Rarely,Early
+P0086,Low,Rarely,Rarely,Rarely,Good,Rarely,Rarely,None/Minimal
+P0087,Low,Rarely,Sometimes,Rarely,Good,Rarely,Rarely,None/Minimal
+P0088,Moderate,Sometimes,Sometimes,Sometimes,Moderate,Yes,Sometimes,Early
+P0089,Moderate,Sometimes,Sometimes,Sometimes,Moderate,Yes,Sometimes,Early
+P0090,Low,Rarely,Rarely,Rarely,Very good,Rarely,Rarely,None/Minimal
+P0091,Low,Rarely,Sometimes,Rarely,Good,Rarely,Rarely,None/Minimal
+P0092,Moderate,Sometimes,Yes,Sometimes,Moderate,Yes,Yes,Moderate
+P0093,Moderate,Sometimes,Sometimes,Rarely,Moderate,Sometimes,Sometimes,Early
+P0094,Low,Rarely,Sometimes,Rarely,Good,Rarely,Rarely,None/Minimal
+P0095,Low,Rarely,Sometimes,Rarely,Good,Rarely,Rarely,None/Minimal
+P0096,Moderate,Sometimes,Sometimes,Sometimes,Moderate,Sometimes,Sometimes,Early
+P0097,Moderate,Sometimes,Yes,Sometimes,Moderate,Yes,Yes,Moderate
+P0098,Low,Rarely,Rarely,Rarely,Good,Rarely,Rarely,None/Minimal
+P0099,Moderate,Sometimes,Sometimes,Sometimes,Moderate,Yes,Sometimes,Early
+P0100,Low,Sometimes,Rarely,Rarely,Good,Sometimes,Rarely,Early
+P0101,Moderate,Sometimes,Sometimes,Sometimes,Moderate,Yes,Sometimes,Early
+P0102,Low,Rarely,Rarely,Rarely,Very good,Rarely,Rarely,None/Minimal
+P0103,Moderate,Sometimes,Sometimes,Sometimes,Moderate,Yes,Sometimes,Early
+P0104,Moderate,Sometimes,Sometimes,Sometimes,Moderate,Yes,Sometimes,Early
+P0105,Low,Rarely,Sometimes,Rarely,Good,Rarely,Rarely,None/Minimal
+P0106,Low,Rarely,Sometimes,Rarely,Good,Rarely,Rarely,None/Minimal
+P0107,Low,Sometimes,Rarely,Rarely,Good,Sometimes,Rarely,Early
+P0108,Moderate,Sometimes,Yes,Sometimes,Moderate,Yes,Yes,Moderate
+P0109,Low,Rarely,Sometimes,Rarely,Good,Rarely,Rarely,None/Minimal
+P0110,Moderate,Sometimes,Yes,Sometimes,Moderate,Yes,Yes,Moderate
+P0111,Low,Rarely,Rarely,Rarely,Good,Rarely,Rarely,None/Minimal
+P0112,Moderate,Sometimes,Sometimes,Rarely,Moderate,Sometimes,Sometimes,Early
+P0113,Moderate,Sometimes,Sometimes,Sometimes,Moderate,Yes,Sometimes,Early
+P0114,Low,Rarely,Sometimes,Rarely,Good,Rarely,Rarely,None/Minimal
+P0115,Low,Rarely,Rarely,Rarely,Good,Rarely,Rarely,None/Minimal
+P0116,Moderate,Sometimes,Sometimes,Sometimes,Moderate,Yes,Sometimes,Early
+P0117,Low,Rarely,Rarely,Rarely,Good,Rarely,Rarely,None/Minimal
+P0118,Low,Rarely,Sometimes,Rarely,Good,Rarely,Rarely,None/Minimal
+P0119,Moderate,Sometimes,Yes,Sometimes,Moderate,Yes,Yes,Moderate
+P0120,Low,Rarely,Sometimes,Rarely,Good,Rarely,Rarely,None/Minimal
+P0121,Low,Rarely,Rarely,Rarely,Good,Rarely,Rarely,None/Minimal
+P0122,Low,Rarely,Rarely,Rarely,Good,Rarely,Rarely,None/Minimal
+P0123,Low,Rarely,Sometimes,Rarely,Good,Rarely,Rarely,None/Minimal
+P0124,Low,Rarely,Rarely,Rarely,Good,Rarely,Rarely,None/Minimal
+P0125,Low,Rarely,Rarely,Rarely,Very good,Rarely,Rarely,None/Minimal
+P0126,Low,Rarely,Sometimes,Rarely,Good,Rarely,Rarely,None/Minimal
+P0127,Low,Rarely,Sometimes,Rarely,Good,Rarely,Rarely,None/Minimal
+P0128,Low,Rarely,Rarely,Rarely,Good,Rarely,Rarely,None/Minimal
+P0129,Low,Rarely,Sometimes,Rarely,Good,Rarely,Rarely,None/Minimal
+P0130,Low,Rarely,Rarely,Rarely,Good,Rarely,Rarely,None/Minimal
+P0131,Low,Sometimes,Sometimes,Rarely,Good,Sometimes,Rarely,None/Minimal
+P0132,Low,Rarely,Sometimes,Rarely,Good,Rarely,Rarely,None/Minimal
+P0133,Low,Rarely,Rarely,Rarely,Very good,Rarely,Rarely,None/Minimal
+P0134,Low,Rarely,Rarely,Rarely,Good,Rarely,Rarely,None/Minimal
+P0135,Low,Rarely,Sometimes,Rarely,Good,Rarely,Rarely,None/Minimal
+P0136,Low,Rarely,Rarely,Rarely,Good,Rarely,Rarely,None/Minimal
+P0137,Low,Rarely,Sometimes,Rarely,Good,Rarely,Rarely,None/Minimal
+P0138,Low,Rarely,Rarely,Rarely,Good,Rarely,Rarely,None/Minimal
+P0139,Low,Rarely,Sometimes,Rarely,Good,Rarely,Rarely,None/Minimal
+P0140,Low,Rarely,Rarely,Rarely,Good,Rarely,Rarely,None/Minimal
+P0141,Low,Rarely,Rarely,Rarely,Very good,Rarely,Rarely,None/Minimal
+P0142,Low,Rarely,Rarely,Rarely,Good,Rarely,Rarely,None/Minimal
+P0143,Moderate,Sometimes,Sometimes,Rarely,Moderate,Sometimes,Sometimes,Early
+P0144,Low,Rarely,Sometimes,Rarely,Good,Rarely,Rarely,None/Minimal
+P0145,Low,Rarely,Sometimes,Rarely,Good,Rarely,Rarely,None/Minimal
+P0146,Low,Rarely,Rarely,Rarely,Good,Rarely,Rarely,None/Minimal
+P0147,Low,Rarely,Sometimes,Rarely,Good,Rarely,Rarely,None/Minimal
+P0148,Low,Rarely,Sometimes,Rarely,Good,Rarely,Rarely,None/Minimal
+P0149,Low,Sometimes,Sometimes,Rarely,Good,Sometimes,Rarely,None/Minimal
+P0150,Low,Rarely,Sometimes,Rarely,Good,Rarely,Rarely,None/Minimal
+P0151,Low,Rarely,Rarely,Rarely,Good,Rarely,Rarely,None/Minimal
+P0152,Low,Rarely,Sometimes,Rarely,Good,Rarely,Rarely,None/Minimal
+P0153,Low,Rarely,Sometimes,Rarely,Good,Rarely,Rarely,None/Minimal
+P0154,Low,Sometimes,Rarely,Rarely,Good,Sometimes,Rarely,Early
+P0155,Low,Rarely,Sometimes,Rarely,Good,Rarely,Rarely,None/Minimal
+P0156,Low,Rarely,Rarely,Rarely,Good,Rarely,Rarely,None/Minimal
+P0157,Low,Rarely,Rarely,Rarely,Good,Rarely,Rarely,None/Minimal
+P0158,Low,Sometimes,Sometimes,Rarely,Good,Sometimes,Rarely,None/Minimal
+P0159,Low,Rarely,Sometimes,Rarely,Good,Rarely,Rarely,None/Minimal
+P0160,Low,Rarely,Sometimes,Rarely,Good,Rarely,Rarely,None/Minimal
+P0161,Low,Rarely,Sometimes,Rarely,Good,Rarely,Rarely,None/Minimal
+P0162,Low,Rarely,Rarely,Rarely,Good,Rarely,Rarely,None/Minimal
+P0163,Moderate,Sometimes,Sometimes,Rarely,Moderate,Sometimes,Sometimes,Early
+P0164,Low,Rarely,Rarely,Rarely,Good,Rarely,Rarely,None/Minimal
+P0165,Low,Rarely,Sometimes,Rarely,Good,Rarely,Rarely,None/Minimal
+P0166,Low,Rarely,Rarely,Rarely,Good,Rarely,Rarely,None/Minimal
+P0167,Low,Rarely,Rarely,Rarely,Good,Rarely,Rarely,None/Minimal
+P0168,Low,Rarely,Sometimes,Rarely,Good,Rarely,Rarely,None/Minimal
+P0169,Low,Rarely,Sometimes,Rarely,Good,Rarely,Rarely,None/Minimal
+P0170,Low,Sometimes,Sometimes,Rarely,Good,Sometimes,Rarely,None/Minimal
+P0171,Low,Rarely,Rarely,Rarely,Good,Rarely,Rarely,None/Minimal
+P0172,Low,Rarely,Rarely,Rarely,Good,Rarely,Rarely,None/Minimal
+P0173,Low,Rarely,Sometimes,Rarely,Good,Rarely,Rarely,None/Minimal
+P0174,Low,Rarely,Sometimes,Rarely,Good,Rarely,Rarely,None/Minimal
+P0175,Low,Sometimes,Rarely,Rarely,Good,Sometimes,Rarely,Early
+P0176,Low,Rarely,Rarely,Rarely,Good,Rarely,Rarely,None/Minimal
+P0177,Low,Rarely,Rarely,Rarely,Good,Rarely,Rarely,None/Minimal
+P0178,Low,Rarely,Sometimes,Rarely,Good,Rarely,Rarely,None/Minimal
+P0179,Low,Rarely,Sometimes,Rarely,Good,Rarely,Rarely,None/Minimal
+P0180,Low,Rarely,Sometimes,Rarely,Good,Rarely,Rarely,None/Minimal
+P0181,Low,Rarely,Rarely,Rarely,Very good,Rarely,Rarely,None/Minimal
+P0182,Low,Rarely,Rarely,Never,Very good,Rarely,Rarely,None/Minimal
+P0183,Low,Rarely,Rarely,Rarely,Good,Rarely,Rarely,None/Minimal
+P0184,Low,Never,Rarely,Never,Very good,Rarely,Never,None/Minimal
+P0185,Low,Rarely,Rarely,Never,Very good,Rarely,Rarely,None/Minimal
+P0186,Low,Never,Rarely,Never,Very good,Rarely,Never,None/Minimal
+P0187,Low,Rarely,Rarely,Never,Very good,Rarely,Rarely,None/Minimal
+P0188,Low,Never,Rarely,Never,Very good,Rarely,Never,None/Minimal
+P0189,Low,Rarely,Rarely,Rarely,Good,Rarely,Rarely,None/Minimal
+P0190,Low,Never,Never,Never,Excellent,Never,Never,None/Minimal
+P0191,Low,Rarely,Rarely,Rarely,Good,Rarely,Rarely,None/Minimal
+P0192,Low,Never,Rarely,Never,Very good,Rarely,Never,None/Minimal
+P0193,Low,Rarely,Rarely,Never,Very good,Rarely,Rarely,None/Minimal
+P0194,Low,Never,Rarely,Never,Very good,Rarely,Never,None/Minimal
+P0195,Low,Rarely,Rarely,Never,Very good,Rarely,Rarely,None/Minimal
+P0196,Low,Never,Never,Never,Excellent,Never,Never,None/Minimal
+P0197,Low,Rarely,Rarely,Rarely,Good,Rarely,Rarely,None/Minimal
+P0198,Low,Never,Rarely,Never,Very good,Rarely,Never,None/Minimal
+P0199,Low,Rarely,Rarely,Rarely,Good,Rarely,Rarely,None/Minimal
+P0200,Low,Never,Never,Never,Excellent,Never,Never,None/Minimal
+P0201,Low,Rarely,Rarely,Rarely,Good,Rarely,Rarely,None/Minimal
+P0202,Low,Never,Rarely,Never,Very good,Rarely,Never,None/Minimal
+P0203,Low,Rarely,Rarely,Never,Very good,Rarely,Rarely,None/Minimal
+P0204,Low,Never,Never,Never,Excellent,Never,Never,None/Minimal
+P0205,Low,Rarely,Rarely,Rarely,Good,Rarely,Rarely,None/Minimal
+P0206,Low,Rarely,Rarely,Never,Very good,Rarely,Rarely,None/Minimal
+P0207,Low,Never,Never,Never,Excellent,Never,Never,None/Minimal
+P0208,Low,Rarely,Rarely,Rarely,Good,Rarely,Rarely,None/Minimal
+P0209,Low,Never,Never,Never,Excellent,Never,Never,None/Minimal
+P0210,Low,Rarely,Rarely,Rarely,Good,Rarely,Rarely,None/Minimal
+P0211,Low,Rarely,Rarely,Never,Very good,Rarely,Rarely,None/Minimal
+P0212,Low,Never,Never,Never,Excellent,Never,Never,None/Minimal
+P0213,Low,Rarely,Rarely,Rarely,Good,Rarely,Rarely,None/Minimal
+P0214,Low,Never,Rarely,Never,Very good,Rarely,Never,None/Minimal
+P0215,Low,Rarely,Rarely,Rarely,Good,Rarely,Rarely,None/Minimal
+P0216,Low,Never,Rarely,Never,Very good,Rarely,Never,None/Minimal
+P0217,Low,Rarely,Rarely,Rarely,Good,Rarely,Rarely,None/Minimal
+P0218,Low,Never,Never,Never,Excellent,Never,Never,None/Minimal
+P0219,Low,Rarely,Rarely,Rarely,Good,Rarely,Rarely,None/Minimal
+P0220,Low,Never,Never,Never,Excellent,Never,Never,None/Minimal
+P0221,Low,Rarely,Rarely,Rarely,Good,Rarely,Rarely,None/Minimal
+P0222,Low,Never,Rarely,Never,Very good,Rarely,Never,None/Minimal
+P0223,Low,Rarely,Rarely,Never,Very good,Rarely,Rarely,None/Minimal
+P0224,Low,Never,Never,Never,Excellent,Never,Never,None/Minimal
+P0225,Low,Rarely,Rarely,Rarely,Good,Rarely,Rarely,None/Minimal
+P0226,Low,Never,Never,Never,Excellent,Never,Never,None/Minimal
+P0227,Low,Rarely,Rarely,Rarely,Good,Rarely,Rarely,None/Minimal
+P0228,Low,Never,Never,Never,Excellent,Never,Never,None/Minimal
+P0229,Low,Rarely,Rarely,Rarely,Good,Rarely,Rarely,None/Minimal
+P0230,Low,Never,Rarely,Never,Very good,Rarely,Never,None/Minimal
+P0231,Low,Rarely,Rarely,Never,Very good,Rarely,Rarely,None/Minimal
+P0232,Low,Never,Never,Never,Excellent,Never,Never,None/Minimal
+P0233,Low,Rarely,Rarely,Rarely,Good,Rarely,Rarely,None/Minimal
+P0234,Low,Never,Rarely,Never,Very good,Rarely,Never,None/Minimal
+P0235,Low,Rarely,Rarely,Never,Very good,Rarely,Rarely,None/Minimal
+P0236,Low,Never,Never,Never,Excellent,Never,Never,None/Minimal
+P0237,Low,Rarely,Rarely,Rarely,Good,Rarely,Rarely,None/Minimal
+P0238,Low,Rarely,Rarely,Rarely,Good,Rarely,Rarely,None/Minimal
+P0239,Low,Never,Never,Never,Excellent,Never,Never,None/Minimal
+P0240,Low,Rarely,Rarely,Never,Very good,Rarely,Rarely,None/Minimal
+P0241,High,Yes,Yes,Yes,Low,Yes,Yes,Severe
+P0242,High,Yes,Yes,Yes,Low,Yes,Yes,Critical
+P0243,High,Yes,Yes,Yes,Low,Yes,Yes,Severe
+P0244,High,Yes,Yes,Yes,Low,Yes,Yes,Critical
+P0245,High,Yes,Yes,Yes,Low,Yes,Yes,Critical
+P0246,Moderate,Sometimes,Sometimes,Sometimes,Moderate,Yes,Sometimes,Moderate
+P0247,Moderate,Sometimes,Sometimes,Sometimes,Moderate,Yes,Sometimes,Early
+P0248,High,Yes,Yes,Yes,Very low,Yes,Yes,Critical
+P0249,High,Yes,Yes,Yes,Very low,Yes,Yes,Critical
+P0250,Moderate,Sometimes,Sometimes,Rarely,Good,Sometimes,Rarely,None/Minimal
+P0251,High,Yes,Yes,Yes,Very low,Yes,Yes,Critical
+P0252,Moderate,Yes,Yes,Sometimes,Moderate,Yes,Yes,Moderate
+P0253,Moderate,Yes,Yes,Sometimes,Moderate,Yes,Yes,Severe
+P0254,Moderate,Sometimes,Yes,Sometimes,Moderate,Yes,Yes,Moderate
+P0255,High,Yes,Yes,Yes,Low,Yes,Yes,Critical
+P0256,Moderate,Sometimes,Sometimes,Sometimes,Moderate,Yes,Sometimes,Early
+P0257,High,Yes,Yes,Yes,Low,Yes,Yes,Critical
+P0258,Low,Rarely,Sometimes,Rarely,Good,Rarely,Rarely,None/Minimal
+P0259,High,Yes,Yes,Yes,Low,Yes,Yes,Critical
+P0260,Moderate,Sometimes,Yes,Sometimes,Moderate,Yes,Yes,Moderate
+P0261,High,Yes,Yes,Yes,Very low,Yes,Yes,Critical
+P0262,Moderate,Sometimes,Sometimes,Rarely,Moderate,Sometimes,Sometimes,Early
+P0263,High,Yes,Yes,Yes,Low,Yes,Yes,Critical
+P0264,Moderate,Sometimes,Sometimes,Rarely,Moderate,Sometimes,Sometimes,Early
+P0265,High,Yes,Yes,Yes,Low,Yes,Yes,Severe
+P0266,High,Yes,Yes,Yes,Low,Yes,Yes,Severe
+P0267,High,Yes,Yes,Yes,Low,Yes,Yes,Critical
+P0268,Moderate,Sometimes,Sometimes,Sometimes,Moderate,Yes,Sometimes,Early
+P0269,Moderate,Sometimes,Yes,Sometimes,Moderate,Yes,Yes,Moderate
+P0270,Moderate,Sometimes,Sometimes,Sometimes,Moderate,Sometimes,Sometimes,Early
+P0271,High,Yes,Yes,Yes,Low,Yes,Yes,Critical
+P0272,Low,Sometimes,Sometimes,Rarely,Good,Sometimes,Rarely,None/Minimal
+P0273,Moderate,Sometimes,Sometimes,Sometimes,Moderate,Yes,Sometimes,Moderate
+P0274,High,Yes,Yes,Yes,Low,Yes,Yes,Severe
+P0275,Moderate,Sometimes,Yes,Sometimes,Moderate,Yes,Yes,Moderate
+P0276,Moderate,Sometimes,Sometimes,Rarely,Moderate,Sometimes,Sometimes,Early
+P0277,Moderate,Sometimes,Yes,Sometimes,Moderate,Yes,Yes,Moderate
+P0278,Low,Rarely,Sometimes,Rarely,Good,Rarely,Rarely,None/Minimal
+P0279,Moderate,Sometimes,Yes,Sometimes,Moderate,Yes,Yes,Moderate
+P0280,High,Yes,Yes,Yes,Very low,Yes,Yes,Critical
+P0281,Low,Rarely,Rarely,Rarely,Good,Rarely,Rarely,None/Minimal
+P0282,Moderate,Sometimes,Yes,Sometimes,Moderate,Yes,Yes,Moderate
+P0283,High,Yes,Yes,Yes,Low,Yes,Yes,Severe
+P0284,High,Yes,Yes,Yes,Low,Yes,Yes,Critical
+P0285,Low,Rarely,Sometimes,Rarely,Good,Rarely,Rarely,None/Minimal
+P0286,Moderate,Sometimes,Sometimes,Sometimes,Moderate,Yes,Sometimes,Early
+P0287,Moderate,Sometimes,Yes,Sometimes,Moderate,Yes,Yes,Moderate
+P0288,High,Yes,Yes,Yes,Low,Yes,Yes,Critical
+P0289,Moderate,Sometimes,Sometimes,Sometimes,Moderate,Yes,Sometimes,Early
+P0290,High,Yes,Yes,Yes,Low,Yes,Yes,Severe
+P0291,Low,Rarely,Rarely,Rarely,Good,Rarely,Rarely,None/Minimal
+P0292,High,Yes,Yes,Yes,Low,Yes,Yes,Critical
+P0293,Low,Rarely,Sometimes,Rarely,Good,Rarely,Rarely,None/Minimal
+P0294,High,Yes,Yes,Yes,Very low,Yes,Yes,Critical
+P0295,Moderate,Sometimes,Yes,Sometimes,Moderate,Yes,Yes,Moderate
+P0296,High,Yes,Yes,Yes,Low,Yes,Yes,Severe
+P0297,Moderate,Sometimes,Sometimes,Rarely,Moderate,Sometimes,Sometimes,Early
+P0298,High,Yes,Yes,Yes,Low,Yes,Yes,Critical
+P0299,Low,Rarely,Sometimes,Rarely,Good,Rarely,Rarely,None/Minimal
+P0300,High,Yes,Yes,Yes,Low,Yes,Yes,Critical

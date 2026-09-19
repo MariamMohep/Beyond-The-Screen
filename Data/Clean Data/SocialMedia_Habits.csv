@@ -1,0 +1,301 @@
+participant_id,primary_platform,secondary_platform,content_type_consumed,daily_check_frequency,first_check_of_day,late_night_scrolling,sm_during_work_study,sm_during_meals,notifications_always_on,scroll_without_purpose,doomscrolling_frequency
+P0001,Instagram,YouTube,Short video/Reels,Constantly,Within 5 mins of waking,Daily,Always,Always,Yes,Yes,Daily
+P0002,TikTok,YouTube,Short video/Reels,Constantly,Within 5 mins of waking,Daily,Always,Always,Yes,Yes,Daily
+P0003,TikTok,Instagram,Short video/Reels,Every few hours,Within 30 mins,Daily,Often,Often,Yes,Yes,Daily
+P0004,YouTube,Reddit,Gaming/Tech content,Every few hours,Within 30 mins,Daily,Often,Sometimes,Yes,Yes,Daily
+P0005,Instagram,TikTok,Short video/Reels,Constantly,Within 5 mins of waking,Daily,Always,Often,Yes,Yes,Daily
+P0006,YouTube,TikTok,Gaming/Tech content,Constantly,Within 5 mins of waking,Daily,Often,Often,Yes,Yes,Daily
+P0007,Instagram,TikTok,Lifestyle/Fashion,Every few hours,Within 30 mins,Daily,Often,Often,Yes,Yes,Daily
+P0008,YouTube,Twitter/X,Gaming/Tech content,Every few hours,Within 30 mins,Sometimes,Often,Sometimes,Yes,Yes,Often
+P0009,Instagram,Facebook,Short video/Reels,Constantly,Within 5 mins of waking,Daily,Always,Often,Yes,Yes,Daily
+P0010,YouTube,TikTok,Short video/Reels,Every few hours,Within 30 mins,Daily,Often,Sometimes,Yes,Yes,Daily
+P0011,TikTok,Instagram,Lifestyle/Fashion,Every few hours,Within 30 mins,Often,Often,Sometimes,Yes,Yes,Often
+P0012,Instagram,TikTok,Sports/Entertainment,Constantly,Within 5 mins of waking,Daily,Always,Often,Yes,Yes,Daily
+P0013,Instagram,TikTok,Lifestyle/Fashion,Every few hours,Within 30 mins,Daily,Often,Often,Yes,Yes,Daily
+P0014,YouTube,Instagram,Educational/News,Every few hours,Within 30 mins,Sometimes,Often,Sometimes,Yes,Yes,Often
+P0015,Instagram,TikTok,Short video/Reels,Constantly,Within 5 mins of waking,Daily,Always,Always,Yes,Yes,Daily
+P0016,YouTube,Reddit,Gaming/Tech content,Every few hours,Within 30 mins,Often,Often,Sometimes,Yes,Yes,Daily
+P0017,Instagram,TikTok,Lifestyle/Fashion,Every few hours,Within 30 mins,Daily,Often,Often,Yes,Yes,Daily
+P0018,WeChat,Weibo,News/Politics,Every few hours,Within 30 mins,Often,Sometimes,Sometimes,Yes,Yes,Often
+P0019,TikTok,Instagram,Short video/Reels,Constantly,Within 5 mins of waking,Daily,Always,Often,Yes,Yes,Daily
+P0020,YouTube,Instagram,Gaming/Tech content,Every few hours,Within 30 mins,Daily,Often,Sometimes,Yes,Yes,Daily
+P0021,Instagram,TikTok,Short video/Reels,Constantly,Within 5 mins of waking,Daily,Always,Always,Yes,Yes,Daily
+P0022,Twitter/X,YouTube,News/Politics,Every few hours,Within 30 mins,Sometimes,Sometimes,Sometimes,Yes,Yes,Often
+P0023,TikTok,Instagram,Short video/Reels,Constantly,Within 5 mins of waking,Daily,Often,Often,Yes,Yes,Daily
+P0024,Instagram,TikTok,Sports/Entertainment,Every few hours,Within 30 mins,Daily,Often,Sometimes,Yes,Yes,Daily
+P0025,Instagram,Facebook,Lifestyle/Fashion,Every few hours,Within 30 mins,Daily,Often,Often,Yes,Yes,Daily
+P0026,YouTube,TikTok,Gaming/Tech content,Every few hours,Within 30 mins,Sometimes,Sometimes,Sometimes,Yes,Yes,Often
+P0027,Instagram,YouTube,Lifestyle/Fashion,Every few hours,Within 30 mins,Daily,Often,Often,Yes,Yes,Daily
+P0028,YouTube,Facebook,News/Politics,Every few hours,Within 30 mins,Often,Often,Sometimes,Yes,Yes,Often
+P0029,Instagram,TikTok,Short video/Reels,Constantly,Within 5 mins of waking,Daily,Always,Often,Yes,Yes,Daily
+P0030,YouTube,Facebook,Educational/News,Every few hours,Within 30 mins,Often,Sometimes,Sometimes,Yes,Yes,Often
+P0031,Instagram,TikTok,Lifestyle/Fashion,Every few hours,Within 30 mins,Often,Often,Sometimes,Yes,Yes,Often
+P0032,Facebook,TikTok,Short video/Reels,Constantly,Within 5 mins of waking,Daily,Always,Often,Yes,Yes,Daily
+P0033,Instagram,YouTube,Short video/Reels,Constantly,Within 5 mins of waking,Daily,Always,Often,Yes,Yes,Daily
+P0034,YouTube,Reddit,Gaming/Tech content,Every few hours,Within 30 mins,Sometimes,Sometimes,Sometimes,Yes,Yes,Often
+P0035,TikTok,Instagram,Short video/Reels,Constantly,Within 5 mins of waking,Daily,Always,Always,Yes,Yes,Daily
+P0036,YouTube,TikTok,Sports/Entertainment,Every few hours,Within 30 mins,Daily,Often,Sometimes,Yes,Yes,Daily
+P0037,WeChat,Douyin/TikTok,Short video/Reels,Every few hours,Within 30 mins,Daily,Often,Often,Yes,Yes,Daily
+P0038,YouTube,TikTok,Gaming/Tech content,Constantly,Within 5 mins of waking,Daily,Often,Often,Yes,Yes,Daily
+P0039,TikTok,Instagram,Lifestyle/Fashion,Every few hours,Within 30 mins,Daily,Often,Sometimes,Yes,Yes,Often
+P0040,Instagram,Telegram,News/Politics,Every few hours,Within 30 mins,Often,Often,Sometimes,Yes,Yes,Daily
+P0041,TikTok,Facebook,Short video/Reels,Constantly,Within 5 mins of waking,Daily,Often,Often,Yes,Yes,Daily
+P0042,YouTube,Facebook,Educational/News,Every few hours,Within 30 mins,Often,Sometimes,Sometimes,Yes,Yes,Often
+P0043,Instagram,TikTok,Short video/Reels,Constantly,Within 5 mins of waking,Daily,Often,Often,Yes,Yes,Daily
+P0044,YouTube,TikTok,Gaming/Tech content,Constantly,Within 5 mins of waking,Daily,Often,Often,Yes,Yes,Daily
+P0045,Instagram,YouTube,Lifestyle/Fashion,Every few hours,Within 30 mins,Sometimes,Sometimes,Sometimes,Yes,Yes,Often
+P0046,YouTube,TikTok,Short video/Reels,Every few hours,Within 30 mins,Daily,Often,Sometimes,Yes,Yes,Daily
+P0047,Instagram,TikTok,Short video/Reels,Constantly,Within 5 mins of waking,Daily,Always,Always,Yes,Yes,Daily
+P0048,YouTube,Facebook,Educational/News,Every few hours,Within 30 mins,Often,Often,Sometimes,Yes,Yes,Often
+P0049,Instagram,TikTok,Lifestyle/Fashion,Every few hours,Within 30 mins,Sometimes,Sometimes,Sometimes,Yes,Yes,Often
+P0050,TikTok,YouTube,Short video/Reels,Constantly,Within 5 mins of waking,Daily,Often,Often,Yes,Yes,Daily
+P0051,Instagram,TikTok,Lifestyle/Fashion,Constantly,Within 5 mins of waking,Daily,Always,Often,Yes,Yes,Daily
+P0052,YouTube,Reddit,Gaming/Tech content,Every few hours,Within 30 mins,Sometimes,Sometimes,Sometimes,Yes,Yes,Often
+P0053,TikTok,Instagram,Short video/Reels,Constantly,Within 5 mins of waking,Daily,Always,Always,Yes,Yes,Daily
+P0054,Instagram,TikTok,Entertainment/News,Every few hours,Within 30 mins,Sometimes,Sometimes,Sometimes,Yes,Yes,Often
+P0055,Facebook,TikTok,Short video/Reels,Every few hours,Within 30 mins,Daily,Often,Often,Yes,Yes,Daily
+P0056,Instagram,TikTok,Sports/Entertainment,Every few hours,Within 30 mins,Often,Sometimes,Sometimes,Yes,Yes,Often
+P0057,Instagram,YouTube,Short video/Reels,Constantly,Within 5 mins of waking,Daily,Always,Always,Yes,Yes,Daily
+P0058,Instagram,YouTube,News/Entertainment,Every few hours,Within 30 mins,Sometimes,Sometimes,Sometimes,Yes,Yes,Often
+P0059,TikTok,Instagram,Short video/Reels,Constantly,Within 5 mins of waking,Daily,Always,Often,Yes,Yes,Daily
+P0060,YouTube,Facebook,News/Politics,Every few hours,Within 30 mins,Often,Often,Sometimes,Yes,Yes,Often
+P0061,Instagram,LinkedIn,Lifestyle/Fashion,2-3 times a day,Within 30 mins,Sometimes,Sometimes,Rarely,Yes,Sometimes,Sometimes
+P0062,WeChat,LinkedIn,News/Professional,2-3 times a day,Within 30 mins,Rarely,Sometimes,Rarely,Yes,Rarely,Rarely
+P0063,Instagram,LinkedIn,Lifestyle/Fashion,Every few hours,Within 30 mins,Sometimes,Often,Sometimes,Yes,Sometimes,Often
+P0064,Instagram,LinkedIn,News/Professional,2-3 times a day,Within 30 mins,Rarely,Sometimes,Rarely,Yes,Rarely,Rarely
+P0065,Instagram,Facebook,Lifestyle/News,2-3 times a day,Within 30 mins,Rarely,Rarely,Rarely,No,Rarely,Rarely
+P0066,Instagram,YouTube,Sports/News,2-3 times a day,Within 30 mins,Rarely,Sometimes,Rarely,Yes,Rarely,Rarely
+P0067,Instagram,Twitter/X,Lifestyle/News,Every few hours,Within 30 mins,Sometimes,Sometimes,Sometimes,Yes,Sometimes,Sometimes
+P0068,YouTube,Instagram,Gaming/Tech content,Every few hours,Within 30 mins,Often,Often,Sometimes,Yes,Yes,Often
+P0069,Facebook,Instagram,Health/Parenting,2-3 times a day,Within 1 hour,Rarely,Rarely,Rarely,No,Rarely,Rarely
+P0070,Instagram,YouTube,Creative/Art,Every few hours,Within 30 mins,Sometimes,Often,Sometimes,Yes,Sometimes,Often
+P0071,Instagram,YouTube,Educational/Parenting,2-3 times a day,Within 30 mins,Rarely,Sometimes,Rarely,Yes,Rarely,Rarely
+P0072,YouTube,Instagram,Gaming/Tech content,Every few hours,Within 30 mins,Often,Often,Sometimes,Yes,Yes,Often
+P0073,Instagram,TikTok,Lifestyle/Fashion,Every few hours,Within 30 mins,Sometimes,Sometimes,Sometimes,Yes,Sometimes,Sometimes
+P0074,LinkedIn,Twitter/X,Professional/News,2-3 times a day,Within 1 hour,Rarely,Rarely,Rarely,No,Rarely,Rarely
+P0075,Instagram,YouTube,Educational/Lifestyle,Every few hours,Within 30 mins,Sometimes,Sometimes,Sometimes,Yes,Sometimes,Sometimes
+P0076,WeChat,LinkedIn,Professional/News,2-3 times a day,Within 1 hour,Rarely,Rarely,Rarely,No,Rarely,Rarely
+P0077,Instagram,Twitter/X,News/Professional,2-3 times a day,Within 30 mins,Sometimes,Sometimes,Rarely,Yes,Rarely,Sometimes
+P0078,Instagram,LinkedIn,Tech/Professional,Every few hours,Within 30 mins,Sometimes,Often,Sometimes,Yes,Sometimes,Often
+P0079,Facebook,Instagram,News/Social issues,Every few hours,Within 30 mins,Sometimes,Sometimes,Sometimes,Yes,Sometimes,Sometimes
+P0080,LinkedIn,Twitter/X,Financial/News,2-3 times a day,Within 1 hour,Rarely,Rarely,Rarely,No,Rarely,Rarely
+P0081,TikTok,Facebook,Short video/Lifestyle,Every few hours,Within 30 mins,Sometimes,Often,Sometimes,Yes,Sometimes,Often
+P0082,Instagram,YouTube,Lifestyle/Entertainment,Every few hours,Within 30 mins,Sometimes,Often,Sometimes,Yes,Sometimes,Often
+P0083,Facebook,Instagram,Health/Professional,2-3 times a day,Within 1 hour,Rarely,Rarely,Rarely,No,Rarely,Rarely
+P0084,YouTube,LinkedIn,Tech/Professional,2-3 times a day,Within 30 mins,Rarely,Sometimes,Rarely,Yes,Rarely,Rarely
+P0085,Facebook,Instagram,Educational/Social,Every few hours,Within 30 mins,Sometimes,Sometimes,Sometimes,Yes,Sometimes,Sometimes
+P0086,LinkedIn,Reddit,Tech/Professional,2-3 times a day,Within 1 hour,Rarely,Rarely,Rarely,No,Rarely,Rarely
+P0087,Instagram,Twitter/X,Lifestyle/News,2-3 times a day,Within 30 mins,Sometimes,Sometimes,Rarely,Yes,Rarely,Sometimes
+P0088,Instagram,TikTok,Creative/Entertainment,Every few hours,Within 30 mins,Sometimes,Often,Sometimes,Yes,Sometimes,Often
+P0089,Facebook,Instagram,News/Social,Every few hours,Within 30 mins,Sometimes,Sometimes,Sometimes,Yes,Sometimes,Sometimes
+P0090,Twitter/X,LinkedIn,Academic/News,2-3 times a day,Within 1 hour,Rarely,Rarely,Rarely,No,Rarely,Rarely
+P0091,Instagram,YouTube,Tech/Lifestyle,2-3 times a day,Within 30 mins,Sometimes,Sometimes,Rarely,Yes,Rarely,Sometimes
+P0092,Instagram,YouTube,Entertainment/Business,Every few hours,Within 30 mins,Often,Often,Sometimes,Yes,Yes,Often
+P0093,Instagram,TikTok,Lifestyle/Marketing,Every few hours,Within 30 mins,Sometimes,Sometimes,Sometimes,Yes,Sometimes,Sometimes
+P0094,Instagram,LinkedIn,Financial/News,2-3 times a day,Within 30 mins,Rarely,Sometimes,Rarely,Yes,Rarely,Rarely
+P0095,Instagram,Twitter/X,Academic/Lifestyle,2-3 times a day,Within 30 mins,Sometimes,Sometimes,Rarely,Yes,Rarely,Sometimes
+P0096,YouTube,LinkedIn,Tech/Professional,Every few hours,Within 30 mins,Sometimes,Sometimes,Sometimes,Yes,Sometimes,Sometimes
+P0097,Instagram,TikTok,Short video/Lifestyle,Every few hours,Within 30 mins,Often,Often,Sometimes,Yes,Yes,Often
+P0098,Instagram,YouTube,Educational/Lifestyle,2-3 times a day,Within 1 hour,Rarely,Rarely,Rarely,No,Rarely,Rarely
+P0099,Facebook,Instagram,News/Social,Every few hours,Within 30 mins,Sometimes,Sometimes,Sometimes,Yes,Sometimes,Sometimes
+P0100,Instagram,TikTok,Lifestyle/Entertainment,Every few hours,Within 30 mins,Sometimes,Sometimes,Sometimes,Yes,Sometimes,Sometimes
+P0101,Instagram,Telegram,Academic/Social,Every few hours,Within 30 mins,Sometimes,Sometimes,Sometimes,Yes,Sometimes,Sometimes
+P0102,Instagram,Facebook,Health/Parenting,2-3 times a day,Within 1 hour,Rarely,Rarely,Rarely,No,Rarely,Rarely
+P0103,Instagram,YouTube,Tech/Entertainment,Every few hours,Within 30 mins,Often,Sometimes,Sometimes,Yes,Sometimes,Often
+P0104,Facebook,Instagram,Educational/Social,Every few hours,Within 30 mins,Sometimes,Often,Sometimes,Yes,Sometimes,Often
+P0105,LinkedIn,Facebook,Financial/Professional,2-3 times a day,Within 30 mins,Rarely,Sometimes,Rarely,Yes,Rarely,Rarely
+P0106,Instagram,Twitter/X,Academic/News,2-3 times a day,Within 30 mins,Sometimes,Sometimes,Rarely,Yes,Rarely,Sometimes
+P0107,Instagram,YouTube,Business/Entertainment,Every few hours,Within 30 mins,Sometimes,Sometimes,Sometimes,Yes,Sometimes,Sometimes
+P0108,Facebook,TikTok,Short video/Social,Every few hours,Within 30 mins,Often,Often,Sometimes,Yes,Yes,Often
+P0109,LinkedIn,YouTube,Tech/Professional,2-3 times a day,Within 30 mins,Rarely,Sometimes,Rarely,Yes,Rarely,Sometimes
+P0110,Instagram,TikTok,Creative/Fashion,Every few hours,Within 30 mins,Often,Often,Sometimes,Yes,Yes,Often
+P0111,YouTube,LinkedIn,Tech/News,2-3 times a day,Within 1 hour,Rarely,Rarely,Rarely,No,Rarely,Rarely
+P0112,Instagram,TikTok,Marketing/Lifestyle,Every few hours,Within 30 mins,Sometimes,Sometimes,Sometimes,Yes,Sometimes,Sometimes
+P0113,Instagram,YouTube,Entertainment/Lifestyle,Every few hours,Within 30 mins,Sometimes,Often,Sometimes,Yes,Sometimes,Often
+P0114,Instagram,YouTube,Health/Lifestyle,2-3 times a day,Within 30 mins,Sometimes,Rarely,Rarely,Yes,Rarely,Rarely
+P0115,LinkedIn,Instagram,Financial/Professional,2-3 times a day,Within 1 hour,Rarely,Rarely,Rarely,No,Rarely,Rarely
+P0116,Instagram,Facebook,Educational/Social,Every few hours,Within 30 mins,Sometimes,Sometimes,Sometimes,Yes,Sometimes,Sometimes
+P0117,LinkedIn,Twitter/X,Tech/Professional,2-3 times a day,Within 1 hour,Rarely,Rarely,Rarely,No,Rarely,Rarely
+P0118,Instagram,Twitter/X,Academic/Lifestyle,2-3 times a day,Within 30 mins,Rarely,Sometimes,Rarely,Yes,Rarely,Rarely
+P0119,Instagram,YouTube,Tech/Entertainment,Every few hours,Within 30 mins,Often,Often,Sometimes,Yes,Yes,Often
+P0120,Facebook,Instagram,News/Social,2-3 times a day,Within 30 mins,Sometimes,Sometimes,Rarely,Yes,Rarely,Rarely
+P0121,LinkedIn,YouTube,Tech/Professional,2-3 times a day,Within 1 hour,Rarely,Rarely,Rarely,No,Rarely,Rarely
+P0122,WeChat,LinkedIn,Health/Professional,2-3 times a day,Within 1 hour,Rarely,Rarely,Rarely,No,Rarely,Rarely
+P0123,Facebook,Instagram,Educational/Parenting,2-3 times a day,Within 30 mins,Sometimes,Sometimes,Rarely,Yes,Rarely,Sometimes
+P0124,Facebook,LinkedIn,News/Professional,2-3 times a day,Within 1 hour,Rarely,Sometimes,Rarely,Yes,Rarely,Rarely
+P0125,Facebook,Instagram,Health/Parenting,2-3 times a day,Within 1 hour,Rarely,Rarely,Rarely,No,Rarely,Rarely
+P0126,Facebook,Instagram,Business/News,2-3 times a day,Within 1 hour,Rarely,Sometimes,Rarely,Yes,Rarely,Rarely
+P0127,Instagram,Twitter/X,Financial/Lifestyle,2-3 times a day,Within 30 mins,Sometimes,Sometimes,Rarely,Yes,Rarely,Sometimes
+P0128,LinkedIn,Twitter/X,Academic/Professional,2-3 times a day,Within 1 hour,Rarely,Rarely,Rarely,No,Rarely,Rarely
+P0129,Facebook,YouTube,Educational/Parenting,2-3 times a day,Within 30 mins,Sometimes,Sometimes,Rarely,Yes,Rarely,Sometimes
+P0130,LinkedIn,Facebook,Financial/Professional,2-3 times a day,Within 1 hour,Rarely,Rarely,Rarely,No,Rarely,Rarely
+P0131,Instagram,Facebook,Marketing/Parenting,Every few hours,Within 30 mins,Sometimes,Sometimes,Sometimes,Yes,Sometimes,Sometimes
+P0132,Instagram,LinkedIn,Tech/Professional,2-3 times a day,Within 30 mins,Sometimes,Sometimes,Rarely,Yes,Rarely,Sometimes
+P0133,Facebook,Instagram,Health/Parenting,2-3 times a day,Within 1 hour,Rarely,Rarely,Rarely,No,Rarely,Rarely
+P0134,YouTube,LinkedIn,Tech/Professional,2-3 times a day,Within 1 hour,Rarely,Rarely,Rarely,No,Rarely,Rarely
+P0135,Facebook,YouTube,Health/Parenting,2-3 times a day,Within 1 hour,Rarely,Sometimes,Rarely,Yes,Rarely,Rarely
+P0136,Facebook,LinkedIn,News/Professional,2-3 times a day,Within 1 hour,Rarely,Rarely,Rarely,No,Rarely,Rarely
+P0137,Facebook,YouTube,Educational/Parenting,2-3 times a day,Within 30 mins,Sometimes,Sometimes,Rarely,Yes,Rarely,Sometimes
+P0138,Facebook,LinkedIn,Business/News,2-3 times a day,Within 1 hour,Rarely,Sometimes,Rarely,Yes,Rarely,Rarely
+P0139,Instagram,Facebook,Financial/Lifestyle,2-3 times a day,Within 30 mins,Sometimes,Sometimes,Rarely,Yes,Rarely,Sometimes
+P0140,YouTube,LinkedIn,Tech/Professional,2-3 times a day,Within 1 hour,Rarely,Rarely,Rarely,No,Rarely,Rarely
+P0141,Twitter/X,LinkedIn,Academic/News,2-3 times a day,Within 1 hour,Rarely,Rarely,Rarely,No,Rarely,Rarely
+P0142,Facebook,LinkedIn,News/Professional,2-3 times a day,Within 1 hour,Rarely,Sometimes,Rarely,Yes,Rarely,Rarely
+P0143,Instagram,TikTok,Creative/Lifestyle,Every few hours,Within 30 mins,Sometimes,Sometimes,Sometimes,Yes,Sometimes,Sometimes
+P0144,Instagram,YouTube,Business/Entertainment,2-3 times a day,Within 30 mins,Sometimes,Sometimes,Rarely,Yes,Rarely,Sometimes
+P0145,Facebook,YouTube,Health/Parenting,2-3 times a day,Within 30 mins,Sometimes,Sometimes,Rarely,Yes,Rarely,Sometimes
+P0146,LinkedIn,YouTube,Tech/Professional,2-3 times a day,Within 1 hour,Rarely,Rarely,Rarely,No,Rarely,Rarely
+P0147,LinkedIn,Instagram,Financial/Professional,2-3 times a day,Within 30 mins,Sometimes,Sometimes,Rarely,Yes,Rarely,Sometimes
+P0148,YouTube,Facebook,Tech/Entertainment,2-3 times a day,Within 30 mins,Sometimes,Sometimes,Rarely,Yes,Rarely,Sometimes
+P0149,Facebook,TikTok,Lifestyle/Parenting,2-3 times a day,Within 30 mins,Sometimes,Sometimes,Sometimes,Yes,Sometimes,Sometimes
+P0150,YouTube,LinkedIn,Health/Professional,2-3 times a day,Within 30 mins,Sometimes,Sometimes,Rarely,Yes,Rarely,Sometimes
+P0151,Facebook,Instagram,Educational/Parenting,2-3 times a day,Within 1 hour,Rarely,Rarely,Rarely,No,Rarely,Rarely
+P0152,Facebook,YouTube,News/Professional,2-3 times a day,Within 30 mins,Sometimes,Sometimes,Rarely,Yes,Rarely,Rarely
+P0153,Instagram,LinkedIn,Financial/Lifestyle,2-3 times a day,Within 30 mins,Sometimes,Sometimes,Rarely,Yes,Rarely,Sometimes
+P0154,Facebook,YouTube,Entertainment/Social,Every few hours,Within 30 mins,Sometimes,Sometimes,Sometimes,Yes,Sometimes,Sometimes
+P0155,Facebook,YouTube,Educational/Parenting,2-3 times a day,Within 30 mins,Sometimes,Sometimes,Rarely,Yes,Rarely,Sometimes
+P0156,Facebook,LinkedIn,Business/News,2-3 times a day,Within 1 hour,Rarely,Sometimes,Rarely,Yes,Rarely,Rarely
+P0157,Facebook,Instagram,Health/Parenting,2-3 times a day,Within 1 hour,Rarely,Rarely,Rarely,No,Rarely,Rarely
+P0158,Facebook,Instagram,Lifestyle/Entertainment,2-3 times a day,Within 30 mins,Sometimes,Sometimes,Sometimes,Yes,Sometimes,Sometimes
+P0159,Facebook,YouTube,News/Government,2-3 times a day,Within 30 mins,Sometimes,Sometimes,Rarely,Yes,Rarely,Rarely
+P0160,YouTube,LinkedIn,Tech/Professional,2-3 times a day,Within 30 mins,Sometimes,Sometimes,Rarely,Yes,Rarely,Sometimes
+P0161,Facebook,Instagram,Educational/Social,2-3 times a day,Within 30 mins,Sometimes,Sometimes,Rarely,Yes,Rarely,Sometimes
+P0162,LinkedIn,Twitter/X,Financial/Professional,2-3 times a day,Within 1 hour,Rarely,Rarely,Rarely,No,Rarely,Rarely
+P0163,WeChat,Douyin/TikTok,Marketing/Lifestyle,Every few hours,Within 30 mins,Sometimes,Sometimes,Sometimes,Yes,Sometimes,Sometimes
+P0164,Facebook,LinkedIn,News/Professional,2-3 times a day,Within 1 hour,Rarely,Sometimes,Rarely,Yes,Rarely,Rarely
+P0165,Facebook,YouTube,Health/Parenting,2-3 times a day,Within 30 mins,Sometimes,Sometimes,Rarely,Yes,Rarely,Sometimes
+P0166,YouTube,LinkedIn,Tech/Professional,2-3 times a day,Within 1 hour,Rarely,Rarely,Rarely,No,Rarely,Rarely
+P0167,LinkedIn,Twitter/X,Academic/Professional,2-3 times a day,Within 1 hour,Rarely,Rarely,Rarely,No,Rarely,Rarely
+P0168,Instagram,Facebook,Business/Entertainment,2-3 times a day,Within 30 mins,Sometimes,Sometimes,Rarely,Yes,Rarely,Sometimes
+P0169,Facebook,YouTube,Educational/Social,2-3 times a day,Within 30 mins,Sometimes,Sometimes,Rarely,Yes,Rarely,Sometimes
+P0170,Instagram,Snapchat,Financial/Lifestyle,2-3 times a day,Within 30 mins,Sometimes,Sometimes,Sometimes,Yes,Sometimes,Sometimes
+P0171,Instagram,YouTube,Health/Lifestyle,2-3 times a day,Within 1 hour,Rarely,Rarely,Rarely,No,Rarely,Rarely
+P0172,LinkedIn,YouTube,Tech/Professional,2-3 times a day,Within 1 hour,Rarely,Rarely,Rarely,No,Rarely,Rarely
+P0173,Facebook,YouTube,News/Government,2-3 times a day,Within 1 hour,Rarely,Sometimes,Rarely,Yes,Rarely,Rarely
+P0174,Facebook,YouTube,Health/Professional,2-3 times a day,Within 30 mins,Sometimes,Sometimes,Rarely,Yes,Rarely,Sometimes
+P0175,Facebook,Instagram,Lifestyle/Parenting,Every few hours,Within 30 mins,Sometimes,Sometimes,Sometimes,Yes,Sometimes,Sometimes
+P0176,WeChat,LinkedIn,Tech/Professional,2-3 times a day,Within 1 hour,Rarely,Rarely,Rarely,No,Rarely,Rarely
+P0177,Instagram,Facebook,Educational/Lifestyle,2-3 times a day,Within 1 hour,Rarely,Rarely,Rarely,No,Rarely,Rarely
+P0178,YouTube,Facebook,Entertainment/Social,2-3 times a day,Within 30 mins,Sometimes,Sometimes,Rarely,Yes,Rarely,Sometimes
+P0179,Facebook,YouTube,Educational/Parenting,2-3 times a day,Within 30 mins,Sometimes,Sometimes,Rarely,Yes,Rarely,Rarely
+P0180,Facebook,YouTube,News/Government,2-3 times a day,Within 30 mins,Sometimes,Sometimes,Rarely,Yes,Rarely,Sometimes
+P0181,Facebook,LinkedIn,News/Politics,Once a day,Within 1 hour,Rarely,Rarely,Rarely,No,Never,Never
+P0182,WeChat,,Health/Family,Once a day,Within 1 hour,Never,Never,Never,No,Never,Never
+P0183,YouTube,Facebook,Educational/News,2-3 times a day,Within 1 hour,Rarely,Rarely,Rarely,No,Rarely,Rarely
+P0184,Facebook,WhatsApp,Family/News,Once a day,Within 1 hour,Never,Never,Never,No,Never,Never
+P0185,LinkedIn,Twitter/X,Financial/News,Once a day,Within 1 hour,Rarely,Rarely,Never,No,Never,Rarely
+P0186,Facebook,WhatsApp,Family/Social,Once a day,Within 1 hour,Never,Never,Never,No,Never,Never
+P0187,LinkedIn,Twitter/X,Tech/Professional,Once a day,Within 1 hour,Never,Rarely,Never,No,Never,Never
+P0188,Facebook,WhatsApp,Family/Religious,Once a day,Within 1 hour,Never,Never,Never,No,Never,Never
+P0189,Facebook,LinkedIn,Health/Professional,2-3 times a day,Within 1 hour,Rarely,Rarely,Rarely,No,Rarely,Rarely
+P0190,Facebook,YouTube,News/Family,Once a day,During morning routine,Never,Never,Never,No,Never,Never
+P0191,Instagram,YouTube,Educational/Parenting,2-3 times a day,Within 1 hour,Rarely,Rarely,Rarely,No,Rarely,Rarely
+P0192,Facebook,WhatsApp,Family/News,Once a day,Within 1 hour,Never,Never,Never,No,Never,Never
+P0193,LinkedIn,Facebook,Academic/News,Once a day,Within 1 hour,Rarely,Rarely,Never,No,Never,Rarely
+P0194,Facebook,WhatsApp,Family/Religious,Once a day,Within 1 hour,Never,Never,Never,No,Never,Never
+P0195,WeChat,LinkedIn,News/Professional,Once a day,Within 1 hour,Rarely,Rarely,Never,No,Never,Rarely
+P0196,Facebook,WhatsApp,News/Family,Once a day,During morning routine,Never,Never,Never,No,Never,Never
+P0197,YouTube,LinkedIn,Tech/Professional,2-3 times a day,Within 1 hour,Rarely,Rarely,Rarely,No,Rarely,Rarely
+P0198,Facebook,WhatsApp,Family/Religious,Once a day,Within 1 hour,Never,Never,Never,No,Never,Never
+P0199,Facebook,YouTube,Health/Family,2-3 times a day,Within 1 hour,Rarely,Rarely,Rarely,No,Rarely,Rarely
+P0200,Facebook,,News/Family,Once a week,During morning routine,Never,Never,Never,No,Never,Never
+P0201,Facebook,Zalo,Family/Entertainment,2-3 times a day,Within 1 hour,Rarely,Rarely,Rarely,No,Rarely,Rarely
+P0202,Facebook,WhatsApp,Family/Religious,Once a day,Within 1 hour,Never,Never,Never,No,Never,Never
+P0203,Facebook,Instagram,Educational/Lifestyle,2-3 times a day,Within 1 hour,Rarely,Rarely,Never,No,Never,Rarely
+P0204,Facebook,WhatsApp,Family/Religious,Once a day,During morning routine,Never,Never,Never,No,Never,Never
+P0205,LinkedIn,Facebook,Financial/News,2-3 times a day,Within 1 hour,Rarely,Rarely,Rarely,No,Rarely,Rarely
+P0206,Instagram,Facebook,Health/Family,Once a day,Within 1 hour,Rarely,Rarely,Never,No,Never,Rarely
+P0207,YouTube,Facebook,News/Hobbies,Once a day,During morning routine,Never,Never,Never,No,Never,Never
+P0208,Facebook,YouTube,Educational/Family,2-3 times a day,Within 1 hour,Rarely,Rarely,Rarely,No,Rarely,Rarely
+P0209,Facebook,WhatsApp,Family/Religious,Once a day,During morning routine,Never,Never,Never,No,Never,Never
+P0210,Facebook,YouTube,News/Family,2-3 times a day,Within 1 hour,Rarely,Rarely,Rarely,No,Rarely,Rarely
+P0211,WeChat,LinkedIn,Tech/Professional,Once a day,Within 1 hour,Rarely,Rarely,Never,No,Never,Rarely
+P0212,Facebook,,News/Family,Once a week,During morning routine,Never,Never,Never,No,Never,Never
+P0213,YouTube,Facebook,Health/Professional,2-3 times a day,Within 1 hour,Rarely,Rarely,Rarely,No,Rarely,Rarely
+P0214,Facebook,WhatsApp,Family/Social,Once a day,Within 1 hour,Never,Never,Never,No,Never,Never
+P0215,LinkedIn,YouTube,Tech/Professional,2-3 times a day,Within 1 hour,Rarely,Rarely,Rarely,No,Rarely,Rarely
+P0216,Instagram,Facebook,Family/Entertainment,Once a day,Within 1 hour,Never,Never,Never,No,Never,Never
+P0217,LinkedIn,Facebook,Financial/Professional,2-3 times a day,Within 1 hour,Rarely,Rarely,Rarely,No,Rarely,Rarely
+P0218,Facebook,WhatsApp,Family/Religious,Once a day,During morning routine,Never,Never,Never,No,Never,Never
+P0219,Facebook,LinkedIn,Business/News,2-3 times a day,Within 1 hour,Rarely,Rarely,Rarely,No,Rarely,Rarely
+P0220,Facebook,Instagram,Lifestyle/Family,Once a day,During morning routine,Never,Never,Never,No,Never,Never
+P0221,Facebook,YouTube,News/Family,2-3 times a day,Within 1 hour,Rarely,Rarely,Rarely,No,Rarely,Rarely
+P0222,Facebook,WhatsApp,Family/Religious,Once a day,Within 1 hour,Never,Never,Never,No,Never,Never
+P0223,LinkedIn,YouTube,Tech/Professional,Once a day,Within 1 hour,Rarely,Rarely,Never,No,Never,Rarely
+P0224,Facebook,YouTube,Family/Hobbies,Once a day,During morning routine,Never,Never,Never,No,Never,Never
+P0225,Facebook,YouTube,Educational/Family,2-3 times a day,Within 1 hour,Rarely,Rarely,Rarely,No,Rarely,Rarely
+P0226,Facebook,WhatsApp,Family/Religious,Once a day,During morning routine,Never,Never,Never,No,Never,Never
+P0227,Facebook,YouTube,Health/Family,2-3 times a day,Within 1 hour,Rarely,Rarely,Rarely,No,Rarely,Rarely
+P0228,YouTube,Facebook,News/Hobbies,Once a day,During morning routine,Never,Never,Never,No,Never,Never
+P0229,Facebook,Instagram,Family/Lifestyle,2-3 times a day,Within 1 hour,Rarely,Rarely,Rarely,No,Rarely,Rarely
+P0230,Facebook,WhatsApp,Family/Religious,Once a day,Within 1 hour,Never,Never,Never,No,Never,Never
+P0231,LinkedIn,Twitter/X,Financial/News,2-3 times a day,Within 1 hour,Rarely,Rarely,Never,No,Never,Rarely
+P0232,Facebook,WhatsApp,Family/News,Once a week,During morning routine,Never,Never,Never,No,Never,Never
+P0233,Facebook,YouTube,Educational/Family,2-3 times a day,Within 1 hour,Rarely,Rarely,Rarely,No,Rarely,Rarely
+P0234,Facebook,YouTube,Family/Entertainment,Once a day,Within 1 hour,Never,Never,Never,No,Never,Never
+P0235,Facebook,LinkedIn,Health/Professional,Once a day,Within 1 hour,Rarely,Rarely,Never,No,Never,Rarely
+P0236,Facebook,WhatsApp,Family/Hobbies,Once a day,During morning routine,Never,Never,Never,No,Never,Never
+P0237,Facebook,Zalo,Family/Lifestyle,2-3 times a day,Within 1 hour,Rarely,Rarely,Rarely,No,Rarely,Rarely
+P0238,Facebook,YouTube,News/Government,2-3 times a day,Within 1 hour,Rarely,Rarely,Rarely,No,Rarely,Rarely
+P0239,Facebook,WhatsApp,Family/Religious,Once a day,During morning routine,Never,Never,Never,No,Never,Never
+P0240,LinkedIn,Twitter/X,Academic/Professional,Once a day,Within 1 hour,Rarely,Rarely,Never,No,Never,Rarely
+P0241,YouTube,Reddit,Gaming/Political content,Every few hours,Within 5 mins of waking,Daily,Often,Often,Yes,Yes,Daily
+P0242,Douyin/TikTok,WeChat,Short video/Reels,Constantly,Within 5 mins of waking,Daily,Always,Often,Yes,Yes,Daily
+P0243,TikTok,Instagram,Short video/Creative,Every few hours,Within 30 mins,Daily,Often,Often,Yes,Yes,Daily
+P0244,Instagram,TikTok,Short video/Reels,Constantly,Within 5 mins of waking,Daily,Always,Always,Yes,Yes,Daily
+P0245,YouTube,TikTok,Gaming/Short video,Constantly,Within 5 mins of waking,Daily,Always,Often,Yes,Yes,Daily
+P0246,Instagram,Pinterest,Creative/Lifestyle,Every few hours,Within 30 mins,Daily,Sometimes,Sometimes,Yes,Sometimes,Often
+P0247,Twitter/X,Reddit,News/Tech,Every few hours,Within 30 mins,Sometimes,Sometimes,Sometimes,Yes,Sometimes,Sometimes
+P0248,Instagram,YouTube,Short video/Reels,Constantly,Within 5 mins of waking,Daily,Always,Always,Yes,Yes,Daily
+P0249,YouTube,TikTok,Gaming/Short video,Constantly,Within 5 mins of waking,Daily,Always,Always,Yes,Yes,Daily
+P0250,Facebook,Instagram,Health/Social,Every few hours,Within 30 mins,Sometimes,Sometimes,Sometimes,Yes,Sometimes,Sometimes
+P0251,Instagram,TikTok,Short video/Reels,Constantly,Within 5 mins of waking,Daily,Always,Always,Yes,Yes,Daily
+P0252,YouTube,Reddit,Tech/Gaming,Every few hours,Within 30 mins,Daily,Often,Sometimes,Yes,Yes,Often
+P0253,TikTok,Instagram,Creative/Short video,Every few hours,Within 30 mins,Daily,Often,Sometimes,Yes,Yes,Often
+P0254,Instagram,YouTube,Creative/Entertainment,Every few hours,Within 30 mins,Often,Often,Sometimes,Yes,Yes,Often
+P0255,TikTok,Instagram,Short video/Fashion,Constantly,Within 5 mins of waking,Daily,Always,Often,Yes,Yes,Daily
+P0256,Instagram,Telegram,Educational/Social,Every few hours,Within 30 mins,Sometimes,Often,Sometimes,Yes,Sometimes,Often
+P0257,Facebook,TikTok,Short video/Entertainment,Constantly,Within 5 mins of waking,Daily,Always,Often,Yes,Yes,Daily
+P0258,Twitter/X,Reddit,Academic/News,2-3 times a day,Within 30 mins,Sometimes,Sometimes,Rarely,Yes,Rarely,Sometimes
+P0259,Instagram,TikTok,Short video/Fashion,Constantly,Within 5 mins of waking,Daily,Always,Always,Yes,Yes,Daily
+P0260,YouTube,Instagram,Creative/Entertainment,Every few hours,Within 30 mins,Often,Often,Sometimes,Yes,Yes,Often
+P0261,TikTok,Instagram,Short video/Reels,Constantly,Within 5 mins of waking,Daily,Always,Always,Yes,Yes,Daily
+P0262,Reddit,YouTube,Tech/News,Every few hours,Within 30 mins,Sometimes,Sometimes,Sometimes,Yes,Sometimes,Sometimes
+P0263,YouTube,TikTok,Gaming/Short video,Constantly,Within 5 mins of waking,Daily,Always,Often,Yes,Yes,Daily
+P0264,WeChat,Douyin/TikTok,Health/Short video,Every few hours,Within 30 mins,Sometimes,Sometimes,Sometimes,Yes,Sometimes,Sometimes
+P0265,TikTok,Instagram,Short video/Social,Every few hours,Within 30 mins,Daily,Often,Often,Yes,Yes,Daily
+P0266,Instagram,TikTok,Short video/Lifestyle,Constantly,Within 5 mins of waking,Daily,Often,Often,Yes,Yes,Daily
+P0267,YouTube,TikTok,Gaming/Short video,Constantly,Within 5 mins of waking,Daily,Always,Often,Yes,Yes,Daily
+P0268,Instagram,Facebook,Educational/Social,Every few hours,Within 30 mins,Often,Sometimes,Sometimes,Yes,Sometimes,Often
+P0269,Instagram,TikTok,Short video/Lifestyle,Every few hours,Within 30 mins,Often,Often,Sometimes,Yes,Yes,Often
+P0270,YouTube,Instagram,Tech/Entertainment,Every few hours,Within 30 mins,Sometimes,Often,Sometimes,Yes,Sometimes,Often
+P0271,TikTok,Instagram,Short video/Reels,Constantly,Within 5 mins of waking,Daily,Always,Always,Yes,Yes,Daily
+P0272,YouTube,LinkedIn,Government/News,Every few hours,Within 30 mins,Sometimes,Sometimes,Sometimes,Yes,Sometimes,Sometimes
+P0273,Instagram,TikTok,Creative/Short video,Every few hours,Within 30 mins,Often,Sometimes,Sometimes,Yes,Sometimes,Often
+P0274,YouTube,TikTok,Short video/Gaming,Every few hours,Within 30 mins,Daily,Often,Often,Yes,Yes,Daily
+P0275,Instagram,TikTok,Marketing/Lifestyle,Every few hours,Within 30 mins,Often,Often,Sometimes,Yes,Sometimes,Often
+P0276,Facebook,Line,Health/Lifestyle,Every few hours,Within 30 mins,Sometimes,Sometimes,Sometimes,Yes,Sometimes,Sometimes
+P0277,YouTube,Facebook,Educational/Entertainment,Every few hours,Within 30 mins,Daily,Often,Sometimes,Yes,Yes,Daily
+P0278,Facebook,YouTube,Health/Social,2-3 times a day,Within 30 mins,Sometimes,Sometimes,Rarely,Yes,Rarely,Sometimes
+P0279,Instagram,TikTok,Tech/Entertainment,Every few hours,Within 30 mins,Often,Often,Sometimes,Yes,Yes,Often
+P0280,Instagram,TikTok,Short video/Reels,Constantly,Within 5 mins of waking,Daily,Always,Often,Yes,Yes,Daily
+P0281,LinkedIn,YouTube,Financial/Professional,2-3 times a day,Within 1 hour,Rarely,Rarely,Rarely,No,Rarely,Rarely
+P0282,Facebook,Instagram,Lifestyle/Social,Every few hours,Within 30 mins,Often,Often,Sometimes,Yes,Yes,Often
+P0283,YouTube,Reddit,Gaming/News,Every few hours,Within 30 mins,Daily,Often,Often,Yes,Yes,Daily
+P0284,TikTok,Instagram,Short video/Fashion,Constantly,Within 5 mins of waking,Daily,Always,Often,Yes,Yes,Daily
+P0285,Facebook,YouTube,Educational/Parenting,2-3 times a day,Within 30 mins,Sometimes,Sometimes,Rarely,Yes,Rarely,Sometimes
+P0286,Instagram,YouTube,Business/Entertainment,Every few hours,Within 30 mins,Often,Sometimes,Sometimes,Yes,Sometimes,Often
+P0287,Instagram,TikTok,Creative/Lifestyle,Every few hours,Within 30 mins,Often,Often,Sometimes,Yes,Sometimes,Often
+P0288,YouTube,TikTok,Gaming/Short video,Constantly,Within 5 mins of waking,Daily,Always,Often,Yes,Yes,Daily
+P0289,Instagram,LinkedIn,Tech/Lifestyle,Every few hours,Within 30 mins,Often,Sometimes,Sometimes,Yes,Sometimes,Often
+P0290,TikTok,YouTube,Short video/Gaming,Constantly,Within 5 mins of waking,Daily,Often,Often,Yes,Yes,Daily
+P0291,WeChat,LinkedIn,Health/Professional,2-3 times a day,Within 1 hour,Rarely,Rarely,Rarely,No,Rarely,Rarely
+P0292,Instagram,Snapchat,Short video/Fashion,Constantly,Within 5 mins of waking,Daily,Always,Often,Yes,Yes,Daily
+P0293,LinkedIn,Reddit,Financial/News,2-3 times a day,Within 30 mins,Sometimes,Sometimes,Rarely,Yes,Rarely,Sometimes
+P0294,Instagram,TikTok,Short video/K-pop,Constantly,Within 5 mins of waking,Daily,Always,Always,Yes,Yes,Daily
+P0295,YouTube,Reddit,Tech/Gaming,Every few hours,Within 30 mins,Daily,Often,Sometimes,Yes,Yes,Often
+P0296,Instagram,TikTok,Lifestyle/Fashion,Constantly,Within 5 mins of waking,Daily,Often,Often,Yes,Yes,Daily
+P0297,Facebook,Instagram,Business/Social,Every few hours,Within 30 mins,Sometimes,Sometimes,Sometimes,Yes,Sometimes,Sometimes
+P0298,TikTok,Instagram,Short video/Reels,Constantly,Within 5 mins of waking,Daily,Always,Often,Yes,Yes,Daily
+P0299,Facebook,YouTube,News/Government,2-3 times a day,Within 30 mins,Sometimes,Sometimes,Rarely,Yes,Rarely,Sometimes
+P0300,Instagram,TikTok,Short video/Reels,Constantly,Within 5 mins of waking,Daily,Always,Often,Yes,Yes,Daily
